@@ -1,0 +1,1342 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-16T14:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317134963",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Bunulrejo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6460815,
+          -7.9725023
+        ]
+      },
+      "id": "way/317134963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325122433",
+        "access:roof": "no",
+        "addr:full": "Jl. Danau Jonge",
+        "alt_name": "Pasar Madyopuro-Malang",
+        "amenity": "marketplace",
+        "building:levels": "1",
+        "building:roof": "tin",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "capacity": "?",
+        "name": "Pasar Madyopuro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6712421,
+          -7.9741363
+        ]
+      },
+      "id": "way/325122433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350483480",
+        "addr:city": "MALANG",
+        "addr:housenumber": "B7 No 5",
+        "addr:postcode": "65126",
+        "addr:street": "bundaran blimbing indah",
+        "building": "yes",
+        "name": "Lotus Araya Shop",
+        "note": "Free Delivery segala macam kebutuhan pokok",
+        "opening_hours": "Su-Sa 06:30-19:00",
+        "operator": "By Lotus Distribution",
+        "phone": "+0341-495520, 2200040",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.654919,
+          -7.9370381
+        ]
+      },
+      "id": "way/350483480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388216852",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Baru Barat Comboran",
+        "opening_hours": "07:00-15:00",
+        "operator": "Pemerintah Kota Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.630775,
+          -7.9912904
+        ]
+      },
+      "id": "way/388216852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388364303",
+        "addr:city": "Kota Malang",
+        "addr:street": "Jalan Halmahera",
+        "building": "yes",
+        "name": "Pasar Buah",
+        "opening_hours": "00:00-24:00",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6297585,
+          -7.9886209
+        ]
+      },
+      "id": "way/388364303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403027710",
+        "access:roof": "no",
+        "addr:full": "12",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "shop",
+        "building:walls": "brick",
+        "capacity": "200",
+        "capacity:persons": "200",
+        "name": "Sardo",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6086687,
+          -7.9466765
+        ]
+      },
+      "id": "way/403027710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403108762",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "building": "yes",
+        "name": "Carrefour",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6415174,
+          -7.944541
+        ]
+      },
+      "id": "way/403108762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403218158",
+        "access:roof": "no",
+        "addr:full": "Jl.Mt Haryono",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "building:walls": "brick",
+        "capacity:persons": "500",
+        "name": "KPRI UB",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6127751,
+          -7.9473282
+        ]
+      },
+      "id": "way/403218158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403227808",
+        "access:roof": "no",
+        "addr:full": "Jalan MT Haryono",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "concrete",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "capacity:persons": "200",
+        "name": "Swalayan Persada",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6110535,
+          -7.9445694
+        ]
+      },
+      "id": "way/403227808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406536778",
+        "amenity": "marketplace",
+        "name": "Pasar Tawangmangu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6312123,
+          -7.9598574
+        ]
+      },
+      "id": "way/406536778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475806529",
+        "building": "yes",
+        "name": "Rubelan Dieng",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6010953,
+          -7.972931
+        ]
+      },
+      "id": "way/475806529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564204926",
+        "addr:full": "Jl. Guntur, Oro oro dowo",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Oro Oro Dowo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6282524,
+          -7.9687926
+        ]
+      },
+      "id": "way/564204926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/629784993",
+        "branch": "Pulosari",
+        "brand": "Ranch Market",
+        "building": "supermarket",
+        "name": "Ranch Market",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6177238,
+          -7.9743702
+        ]
+      },
+      "id": "way/629784993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/630811625",
+        "branch": "Langsep",
+        "brand": "Super Indo",
+        "brand:wikidata": "Q12518060",
+        "building": "yes",
+        "name": "Super Indo",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:gopay_id": "yes",
+        "payment:gpn_qris": "yes",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6131864,
+          -7.97444
+        ]
+      },
+      "id": "way/630811625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632348281",
+        "addr:full": "Jl.Jaksa Agung Suprapto, RW 01, Oro oro dowo",
+        "building": "supermarket",
+        "name": "Avia Malang",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6296878,
+          -7.9739119
+        ]
+      },
+      "id": "way/632348281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632738173",
+        "addr:full": "Jl. Akordion Barat RW 02 Tunggulwulung",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Tunggulwulung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6130785,
+          -7.9330897
+        ]
+      },
+      "id": "way/632738173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646189572",
+        "addr:full": "Jalan Tlogo Waru, Tlogowaru, Kedungkandang, Kota Malang, Jawa Timur 65133",
+        "amenity": "marketplace",
+        "name": "Pasar Tlogowaru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6617681,
+          -8.0390735
+        ]
+      },
+      "id": "way/646189572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646189573",
+        "addr:full": "Jalan Tlogo Waru, Tlogowaru, Kedungkandang, Kota Malang, Jawa Timur 65133",
+        "amenity": "marketplace",
+        "name": "Pasar Tlogowaru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6618083,
+          -8.0389653
+        ]
+      },
+      "id": "way/646189573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646189574",
+        "addr:full": "Jalan Tlogo Waru, Tlogowaru, Kedungkandang, Kota Malang, Jawa Timur 65133",
+        "amenity": "marketplace",
+        "name": "Pasar Tlogowaru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6617673,
+          -8.0390649
+        ]
+      },
+      "id": "way/646189574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646189575",
+        "addr:full": "Jalan Tlogo Waru, Tlogowaru, Kedungkandang, Kota Malang, Jawa Timur 65133",
+        "amenity": "marketplace",
+        "name": "Pasar Tlogowaru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6617218,
+          -8.0391769
+        ]
+      },
+      "id": "way/646189575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646247568",
+        "addr:full": "Jalan Zaenal Zakse No.28-38, Jodipan, Blimbing, Kotalama, Kedungkandang, Kota Malang, Jawa Timur 65136",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Kebalen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6369208,
+          -7.9880945
+        ]
+      },
+      "id": "way/646247568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647580086",
+        "access:roof": "no",
+        "addr:full": "Jl Ir. Rais",
+        "amenity": "marketplace",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "plastered",
+        "building:walls": "brick",
+        "capacity": "750",
+        "name": "Pasar Kasin",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6215053,
+          -7.9836582
+        ]
+      },
+      "id": "way/647580086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647601426",
+        "addr:full": "Jl. S Supriyadi RW 04",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Sukun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6197863,
+          -7.997041
+        ]
+      },
+      "id": "way/647601426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647605520",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Tradisional Sawojajar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6610254,
+          -7.9746043
+        ]
+      },
+      "id": "way/647605520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647934258",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Tradisional Guyup Rukun Karangbesuki",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6055118,
+          -7.9617469
+        ]
+      },
+      "id": "way/647934258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647989038",
+        "amenity": "marketplace",
+        "name": "PASAR PAGI",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6543661,
+          -7.9302456
+        ]
+      },
+      "id": "way/647989038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691374316",
+        "alt_name": "Pasar Rakyat Klojen",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Klojen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6368647,
+          -7.9728278
+        ]
+      },
+      "id": "way/691374316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/921931943",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Mergan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.614778,
+          -7.9829821
+        ]
+      },
+      "id": "way/921931943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942852200",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Rakyat Bareng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.620504,
+          -7.9772018
+        ]
+      },
+      "id": "way/942852200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/948230574",
+        "brand": "Super Indo",
+        "brand:wikidata": "Q12518060",
+        "building": "yes",
+        "name": "Super Indo",
+        "organic": "only",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6138842,
+          -7.9634266
+        ]
+      },
+      "id": "way/948230574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/948487369",
+        "building": "yes",
+        "name": "Ranch Market",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6227798,
+          -7.9725455
+        ]
+      },
+      "id": "way/948487369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1109879905",
+        "addr:city": "Malang",
+        "addr:housenumber": "27",
+        "addr:street": "Jalan Semeru",
+        "building": "commercial",
+        "name": "Prima Food and Bakery Supplier",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6282727,
+          -7.9766767
+        ]
+      },
+      "id": "way/1109879905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184839687",
+        "amenity": "marketplace",
+        "name": "Pasar Besar Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6330625,
+          -7.9871816
+        ]
+      },
+      "id": "way/1184839687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316847978",
+        "addr:street": "Jalan Bandulan Gang 1",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Krempyeng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6098013,
+          -7.9839272
+        ]
+      },
+      "id": "way/1316847978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319947898",
+        "amenity": "marketplace",
+        "name": "Pasar Blimbing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6395088,
+          -7.9399862
+        ]
+      },
+      "id": "way/1319947898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327789137",
+        "amenity": "marketplace",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6016577,
+          -7.9841919
+        ]
+      },
+      "id": "way/1327789137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327789138",
+        "amenity": "marketplace",
+        "building": "roof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6014443,
+          -7.9841018
+        ]
+      },
+      "id": "way/1327789138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1339087300",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "UM Mart",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6180021,
+          -7.9612533
+        ]
+      },
+      "id": "way/1339087300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360813047",
+        "amenity": "marketplace",
+        "building:part": "yes",
+        "name": "Pasar Terpadu Dinoyo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6075611,
+          -7.9382595
+        ]
+      },
+      "id": "way/1360813047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1375179298",
+        "addr:housenumber": "212",
+        "addr:street": "Jalan Bandulan",
+        "building": "commercial",
+        "name": "Toko Jaya Grosir",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6025963,
+          -7.9838784
+        ]
+      },
+      "id": "way/1375179298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420453881",
+        "branch": "Tlogomas",
+        "brand": "Super Indo",
+        "brand:wikidata": "Q12518060",
+        "building": "commercial",
+        "name": "Super Indo",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6048506,
+          -7.9343347
+        ]
+      },
+      "id": "way/1420453881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426165223",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Pasar Baru Timur Comboran Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6319393,
+          -7.9915168
+        ]
+      },
+      "id": "way/1426165223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429285715",
+        "branch": "Sawojajar",
+        "brand": "Super Indo",
+        "brand:wikidata": "Q12518060",
+        "building": "yes",
+        "name": "Super Indo",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6545684,
+          -7.979618
+        ]
+      },
+      "id": "way/1429285715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463399515",
+        "amenity": "marketplace",
+        "building": "yes",
+        "loc_name": "Pasar Krusuk Mergosono",
+        "name": "Pasar Kotalama",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6356712,
+          -8.000288
+        ]
+      },
+      "id": "way/1463399515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465393761",
+        "branch": "Sulfat Malang",
+        "brand": "Super Indo",
+        "brand:wikidata": "Q12518060",
+        "building": "yes",
+        "name": "Super Indo",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6472796,
+          -7.9585995
+        ]
+      },
+      "id": "way/1465393761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1466416493",
+        "amenity": "marketplace",
+        "name": "Pasa Kedungkandang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.646579,
+          -7.9940725
+        ]
+      },
+      "id": "way/1466416493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654285553",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6503208,
+          -7.936532
+        ]
+      },
+      "id": "node/1654285553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2249746279",
+        "addr:housename": "Matahari Dept. Store",
+        "addr:street": "Jl. Pasar Besar",
+        "name": "Matahari Dept. Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.633226,
+          -7.9869087
+        ]
+      },
+      "id": "node/2249746279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2249747178",
+        "addr:housename": "Mitra 1",
+        "addr:housenumber": "Mitra 1",
+        "addr:street": "Jl. Kyai Haji Agus Salim",
+        "name": "Matahari Dept. Store",
+        "name:en": "Matahari Dept Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6317455,
+          -7.9840507
+        ]
+      },
+      "id": "node/2249747178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3919507973",
+        "amenity": "marketplace",
+        "name": "Pasar Burung Malang",
+        "name:en": "Birds Market",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6309649,
+          -7.9783597
+        ]
+      },
+      "id": "node/3919507973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418451021",
+        "name:en": "Indomarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6487563,
+          -7.9737807
+        ]
+      },
+      "id": "node/5418451021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5419404624",
+        "name:en": "Avan Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6566621,
+          -7.9804062
+        ]
+      },
+      "id": "node/5419404624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7135815199",
+        "name": "Hyfresh",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Hypermart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6119182,
+          -7.9738085
+        ]
+      },
+      "id": "node/7135815199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7294436087",
+        "disused:shop": "yes",
+        "name": "Boom Swalayan",
+        "name:en": "Boom Swalayan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6602918,
+          -7.9808093
+        ]
+      },
+      "id": "node/7294436087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7298862485",
+        "name:en": "Toko Berkat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.657703,
+          -7.9480912
+        ]
+      },
+      "id": "node/7298862485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7304775685",
+        "name:en": "Pasar Pandanwangi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6572234,
+          -7.9482343
+        ]
+      },
+      "id": "node/7304775685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316764112",
+        "addr:city": "Malang",
+        "addr:housenumber": "615G",
+        "addr:postcode": "65147",
+        "addr:street": "Jalan Mergan Musholla",
+        "name": "Alha Frozen Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Muhammad Ridwan",
+        "payment:cash": "yes",
+        "phone": "+6287859168675",
+        "shop": "supermarket",
+        "website": "https://instagram.com/alha_frozenfood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6154494,
+          -7.9858189
+        ]
+      },
+      "id": "node/9316764112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518528521",
+        "amenity": "marketplace",
+        "name": "Dapoer Qoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6631039,
+          -7.9761417
+        ]
+      },
+      "id": "node/9518528521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871457544",
+        "amenity": "marketplace",
+        "name": "Pasar Minggu Velodrome Sawojajar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6692667,
+          -7.9739545
+        ]
+      },
+      "id": "node/9871457544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10036024277",
+        "name": "Warung Alisha",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6106544,
+          -7.948178
+        ]
+      },
+      "id": "node/10036024277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10153351832",
+        "addr:city": "Malang",
+        "addr:housenumber": "25",
+        "addr:street": "Jalan Semeru",
+        "name": "Pia Cap Mangkok",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Pia Cap Mangkok",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6284327,
+          -7.9765821
+        ]
+      },
+      "id": "node/10153351832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10153351835",
+        "addr:city": "Malang",
+        "addr:housenumber": "25",
+        "addr:street": "Jalan Semeru",
+        "name": "Bluder Kapas",
+        "operator": "Bluder Kapas",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6285072,
+          -7.9765971
+        ]
+      },
+      "id": "node/10153351835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10153351836",
+        "addr:city": "Malang",
+        "addr:housenumber": "27",
+        "addr:street": "Jalan Semeru",
+        "name": "Prima Food and Bakery Supplier",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6282592,
+          -7.9766147
+        ]
+      },
+      "id": "node/10153351836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12025425570",
+        "amenity": "marketplace",
+        "name": "Pasar Krempyeng",
+        "opening_hours": "Sa-Su 15:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6287143,
+          -7.9779957
+        ]
+      },
+      "id": "node/12025425570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222406697",
+        "branch": "Malang Town Square",
+        "name": "Hypermart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6189401,
+          -7.9570253
+        ]
+      },
+      "id": "node/12222406697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222426405",
+        "name": "Transmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6180133,
+          -7.9565564
+        ]
+      },
+      "id": "node/12222426405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12527068799",
+        "addr:city": "Malang",
+        "addr:housenumber": "F5 K16",
+        "addr:neighbourhood": "Rt02 Rw13",
+        "addr:province": "Jawa Timur",
+        "addr:street": "Jalan Danau Limboto",
+        "addr:subdistrict": "Kedungkandang",
+        "addr:unit": "F5K16",
+        "name": "Empyreal Outdoor Sawojajar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6616787,
+          -7.9697741
+        ]
+      },
+      "id": "node/12527068799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13370967736",
+        "addr:city": "malang",
+        "addr:district": "Lowokwaru",
+        "addr:housename": "Nomor 45",
+        "addr:street": "Jalan Bantaran 1",
+        "addr:subdistrict": "Tulusrejo",
+        "name": "Goodsigma Sportwear",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Macroscope Berdikari Nusantara",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+6285777018727",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6361978,
+          -7.9497869
+        ]
+      },
+      "id": "node/13370967736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13418363050",
+        "name": "Utama Swalayan & Grosir",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6365586,
+          -7.9695326
+        ]
+      },
+      "id": "node/13418363050"
+    }
+  ]
+}

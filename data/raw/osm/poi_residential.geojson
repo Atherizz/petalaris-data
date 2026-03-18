@@ -1,0 +1,6127 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-18T14:51:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/19152073",
+        "landuse": "residential",
+        "name": "Mutiara Residence",
+        "residential": "gated",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6039322,
+          -7.9954757
+        ]
+      },
+      "id": "relation/19152073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/19944033",
+        "landuse": "residential",
+        "name": "Puncak Buring Indah",
+        "residential": "gated",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6526416,
+          -8.0115104
+        ]
+      },
+      "id": "relation/19944033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20050697",
+        "landuse": "residential",
+        "name": "Prima Ragil Permai I",
+        "residential": "gated",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6607177,
+          -7.9813912
+        ]
+      },
+      "id": "relation/20050697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20055330",
+        "landuse": "residential",
+        "name": "Griya Shanta",
+        "residential": "gated",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6218779,
+          -7.9389319
+        ]
+      },
+      "id": "relation/20055330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316664167",
+        "landuse": "residential",
+        "name": "Perumahan Sumpil Residence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6444943,
+          -7.9320988
+        ]
+      },
+      "id": "way/316664167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389496572",
+        "alt_name": "Perumahan Regency One Bandulan",
+        "landuse": "residential",
+        "name": "Regency One",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.597922,
+          -7.978144
+        ]
+      },
+      "id": "way/389496572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403231154",
+        "landuse": "residential",
+        "name": "Permata Pulosari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.647508,
+          -7.9342852
+        ]
+      },
+      "id": "way/403231154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406585585",
+        "addr:city": "Malang",
+        "addr:postcode": "65141",
+        "addr:street": "Jalan Jengger Ayam 1",
+        "fixme": "possibly incorrect name",
+        "landuse": "residential",
+        "name": "Perumahan Cengger Ayam",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6305043,
+          -7.9454414
+        ]
+      },
+      "id": "way/406585585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564202537",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.595409,
+          -7.9484479
+        ]
+      },
+      "id": "way/564202537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646240294",
+        "landuse": "residential",
+        "name": "Joyogreen Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.587639,
+          -7.9376953
+        ]
+      },
+      "id": "way/646240294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646240295",
+        "landuse": "residential",
+        "name": "Joyogreen Regency",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5865291,
+          -7.9376114
+        ]
+      },
+      "id": "way/646240295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646240301",
+        "alt_name": "Perumahan Galaxy Regency Malang",
+        "landuse": "residential",
+        "name": "Galaxy Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6074987,
+          -7.9326594
+        ]
+      },
+      "id": "way/646240301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647934252",
+        "landuse": "residential",
+        "name": "Graha Pelita Sigura-Gura",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6068748,
+          -7.9557999
+        ]
+      },
+      "id": "way/647934252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746173947",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6401009,
+          -7.9530029
+        ]
+      },
+      "id": "way/746173947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1001305747",
+        "landuse": "residential",
+        "name": "Grand Aleena",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5733793,
+          -7.9392403
+        ]
+      },
+      "id": "way/1001305747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1047515809",
+        "landuse": "residential",
+        "name": "Perum Pesona Ikan Tombro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6334988,
+          -7.9220278
+        ]
+      },
+      "id": "way/1047515809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1051688630",
+        "landuse": "residential",
+        "name": "Perum Puri Kartika Asri Puskopad",
+        "residential": "rural",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63261,
+          -7.9215874
+        ]
+      },
+      "id": "way/1051688630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1102876961",
+        "landuse": "residential",
+        "name": "Pondok Blimbing Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6556529,
+          -7.9364611
+        ]
+      },
+      "id": "way/1102876961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1102876962",
+        "landuse": "residential",
+        "name": "Araya",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6703581,
+          -7.9376272
+        ]
+      },
+      "id": "way/1102876962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037478",
+        "landuse": "residential",
+        "name": "CitraGarden Malang",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65648,
+          -8.0091479
+        ]
+      },
+      "id": "way/1103037478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037479",
+        "landuse": "residential",
+        "name": "D'Rich Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6701781,
+          -8.0063429
+        ]
+      },
+      "id": "way/1103037479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037480",
+        "landuse": "residential",
+        "name": "Bukit Indah Permai I",
+        "residential": "urban",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6834617,
+          -7.9957451
+        ]
+      },
+      "id": "way/1103037480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037481",
+        "landuse": "residential",
+        "name": "Bukit Indah Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6821944,
+          -7.9945152
+        ]
+      },
+      "id": "way/1103037481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037482",
+        "landuse": "residential",
+        "name": "de Cassablanca Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6776239,
+          -7.9845227
+        ]
+      },
+      "id": "way/1103037482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037483",
+        "landuse": "residential",
+        "name": "Oma View Atas",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6763364,
+          -7.9872251
+        ]
+      },
+      "id": "way/1103037483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037484",
+        "landuse": "residential",
+        "name": "The Sanata Village",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6826303,
+          -7.9887248
+        ]
+      },
+      "id": "way/1103037484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037485",
+        "landuse": "residential",
+        "name": "Oma View",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6832576,
+          -7.9872917
+        ]
+      },
+      "id": "way/1103037485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037486",
+        "landuse": "residential",
+        "name": "Riverfront Urban Resort",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6684374,
+          -7.9834442
+        ]
+      },
+      "id": "way/1103037486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037487",
+        "addr:city": "Malang",
+        "addr:district": "Kedungkandang",
+        "addr:province": "Jawa Timur",
+        "addr:subdistrict": "Madyopuro",
+        "alt_name": "Perumahan Bulan Terang Utama",
+        "landuse": "residential",
+        "name": "Bulan Terang Utama",
+        "residential": "gated",
+        "short_name": "Perum Bulan Terang Utama",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6737803,
+          -7.9866848
+        ]
+      },
+      "id": "way/1103037487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184853854",
+        "landuse": "residential",
+        "name": "Ijen Nirwana Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6173404,
+          -7.9795919
+        ]
+      },
+      "id": "way/1184853854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307931063",
+        "landuse": "residential",
+        "name": "Sunflower Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6021686,
+          -7.9823617
+        ]
+      },
+      "id": "way/1307931063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1309988462",
+        "landuse": "residential",
+        "name": "Villa Dieng Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6055815,
+          -7.9765631
+        ]
+      },
+      "id": "way/1309988462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1309988463",
+        "landuse": "residential",
+        "name": "Istana Dieng",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6020246,
+          -7.9779553
+        ]
+      },
+      "id": "way/1309988463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310977176",
+        "landuse": "residential",
+        "name": "Sapta Royal Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6048944,
+          -7.9806753
+        ]
+      },
+      "id": "way/1310977176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313416733",
+        "landuse": "residential",
+        "name": "Bukit Dieng Regency",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5961674,
+          -7.9752487
+        ]
+      },
+      "id": "way/1313416733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313547356",
+        "landuse": "residential",
+        "name": "Delta Dieng",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6044637,
+          -7.9694025
+        ]
+      },
+      "id": "way/1313547356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313626685",
+        "landuse": "residential",
+        "name": "Taman Dieng",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6073229,
+          -7.971302
+        ]
+      },
+      "id": "way/1313626685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314092456",
+        "landuse": "residential",
+        "name": "Alam Dieng Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.607284,
+          -7.9764434
+        ]
+      },
+      "id": "way/1314092456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315002906",
+        "landuse": "residential",
+        "name": "Greenland",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5949292,
+          -7.9507989
+        ]
+      },
+      "id": "way/1315002906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315069120",
+        "landuse": "residential",
+        "name": "Pondok Cempaka Indah",
+        "official_name": "Perumahan Pondok Cempaka Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6046519,
+          -7.9919457
+        ]
+      },
+      "id": "way/1315069120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315069121",
+        "landuse": "residential",
+        "name": "DeGreen Cempaka Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6040176,
+          -7.992212
+        ]
+      },
+      "id": "way/1315069121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315069128",
+        "landuse": "residential",
+        "name": "The Village",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6008604,
+          -7.9877445
+        ]
+      },
+      "id": "way/1315069128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315069143",
+        "landuse": "residential",
+        "name": "Mulyorejo Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6013988,
+          -7.9909732
+        ]
+      },
+      "id": "way/1315069143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315069144",
+        "landuse": "residential",
+        "name": "Bandulan Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6009382,
+          -7.9909381
+        ]
+      },
+      "id": "way/1315069144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315124765",
+        "landuse": "residential",
+        "name": "Perumahan V Brawijaya",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6059046,
+          -7.9801788
+        ]
+      },
+      "id": "way/1315124765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315152598",
+        "landuse": "residential",
+        "name": "Griyo Muslim",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6021935,
+          -7.9947531
+        ]
+      },
+      "id": "way/1315152598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315152602",
+        "landuse": "residential",
+        "name": "Perum LPK I",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6033939,
+          -7.9936643
+        ]
+      },
+      "id": "way/1315152602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315152603",
+        "landuse": "residential",
+        "name": "Safe Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6035537,
+          -7.9929869
+        ]
+      },
+      "id": "way/1315152603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315285401",
+        "landuse": "residential",
+        "name": "Casa Lavenia",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6012437,
+          -7.993773
+        ]
+      },
+      "id": "way/1315285401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315285414",
+        "landuse": "residential",
+        "name": "Pondok Indah Mulyorejo Mandiri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5985668,
+          -7.9895345
+        ]
+      },
+      "id": "way/1315285414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316987213",
+        "landuse": "residential",
+        "name": "Bandulan Permai",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6047049,
+          -7.9849867
+        ]
+      },
+      "id": "way/1316987213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317060116",
+        "landuse": "residential",
+        "name": "Royal Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6014607,
+          -7.9876916
+        ]
+      },
+      "id": "way/1317060116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317882414",
+        "landuse": "residential",
+        "name": "De Rumah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6200649,
+          -7.9566282
+        ]
+      },
+      "id": "way/1317882414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318307751",
+        "alt_name": "Perum Griya Sejahtera LPK III",
+        "landuse": "residential",
+        "name": "Griya Sejahtera LPK III",
+        "residential": "gated",
+        "short_name": "LPK III",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5995317,
+          -7.9956887
+        ]
+      },
+      "id": "way/1318307751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318455286",
+        "alt_name": "Perum Taman Graha Mulyorejo",
+        "landuse": "residential",
+        "name": "Taman Graha Mulyorejo",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6022665,
+          -7.987097
+        ]
+      },
+      "id": "way/1318455286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318659802",
+        "alt_name": "Perum Graha Dewata",
+        "landuse": "residential",
+        "name": "Graha Dewata Estate",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5767957,
+          -7.934827
+        ]
+      },
+      "id": "way/1318659802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318827897",
+        "landuse": "residential",
+        "name": "Garden Palma Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6134599,
+          -7.9357641
+        ]
+      },
+      "id": "way/1318827897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318948194",
+        "landuse": "residential",
+        "name": "de Salvia Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6114334,
+          -7.9896668
+        ]
+      },
+      "id": "way/1318948194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319185983",
+        "landuse": "residential",
+        "name": "Griya Tirta Aji",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.604479,
+          -8.0035031
+        ]
+      },
+      "id": "way/1319185983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319185985",
+        "landuse": "residential",
+        "name": "Bumi Emas Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60486,
+          -8.004011
+        ]
+      },
+      "id": "way/1319185985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319185990",
+        "alt_name": "Griya Tanjung Priok Jaya 1",
+        "landuse": "residential",
+        "name": "Griya Tanjung Priok Jaya",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6053013,
+          -8.0058727
+        ]
+      },
+      "id": "way/1319185990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186004",
+        "landuse": "residential",
+        "name": "Terra Regency Kebonsari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6099367,
+          -8.0117407
+        ]
+      },
+      "id": "way/1319186004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186005",
+        "landuse": "residential",
+        "name": "The Green Sukun",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6089063,
+          -8.0110474
+        ]
+      },
+      "id": "way/1319186005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186013",
+        "landuse": "residential",
+        "name": "Morse Recency Sukun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.605544,
+          -7.9942483
+        ]
+      },
+      "id": "way/1319186013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186018",
+        "landuse": "residential",
+        "name": "Greenleaf Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6041024,
+          -7.9967086
+        ]
+      },
+      "id": "way/1319186018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186019",
+        "landuse": "residential",
+        "name": "Greenleaf 2 Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6043107,
+          -7.9969636
+        ]
+      },
+      "id": "way/1319186019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319186020",
+        "landuse": "residential",
+        "name": "De Family",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6045642,
+          -7.9972755
+        ]
+      },
+      "id": "way/1319186020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319190336",
+        "landuse": "residential",
+        "name": "Perumahan Sukun Pondok Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6085807,
+          -7.9979882
+        ]
+      },
+      "id": "way/1319190336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319198454",
+        "landuse": "residential",
+        "name": "Rafflesia Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.607154,
+          -7.9985812
+        ]
+      },
+      "id": "way/1319198454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319229343",
+        "landuse": "residential",
+        "name": "Grand Samawa",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6060289,
+          -8.0045637
+        ]
+      },
+      "id": "way/1319229343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319229344",
+        "landuse": "residential",
+        "name": "Surya Indah Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.606312,
+          -8.0047032
+        ]
+      },
+      "id": "way/1319229344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319280522",
+        "landuse": "residential",
+        "name": "Puri Nirwana Janti",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6221846,
+          -8.0055377
+        ]
+      },
+      "id": "way/1319280522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319951258",
+        "landuse": "residential",
+        "name": "Perum PNS Tlogomas",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5924816,
+          -7.9381671
+        ]
+      },
+      "id": "way/1319951258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1322492243",
+        "alt_name": "Perum Hill Park",
+        "landuse": "residential",
+        "name": "Hill Park Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5920504,
+          -7.9754879
+        ]
+      },
+      "id": "way/1322492243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323083673",
+        "landuse": "residential",
+        "name": "Green Living Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6255175,
+          -8.0207818
+        ]
+      },
+      "id": "way/1323083673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323083675",
+        "alt_name": "Cahaya Raya Mutiara Residence",
+        "landuse": "residential",
+        "name": "Gadang Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6259335,
+          -8.018489
+        ]
+      },
+      "id": "way/1323083675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323093003",
+        "alt_name": "Perumahan Dieng Inside",
+        "landuse": "residential",
+        "name": "Dieng Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6070943,
+          -7.9916549
+        ]
+      },
+      "id": "way/1323093003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323093005",
+        "alt_name": "Perumahan Griya Intan Regency",
+        "landuse": "residential",
+        "name": "Griya Intan Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.608276,
+          -7.9919705
+        ]
+      },
+      "id": "way/1323093005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323093011",
+        "landuse": "residential",
+        "name": "Perumahan ASN Bandulan",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.607458,
+          -7.9919354
+        ]
+      },
+      "id": "way/1323093011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1325578906",
+        "alt_name": "Perumdin Politeknik",
+        "landuse": "residential",
+        "name": "Perumahan Dinas Politeknik",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5966928,
+          -7.9419512
+        ]
+      },
+      "id": "way/1325578906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1325578909",
+        "landuse": "residential",
+        "name": "Joyo Grand Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5903639,
+          -7.943669
+        ]
+      },
+      "id": "way/1325578909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1325578911",
+        "alt_name": "Cluster Joyo Land Town House",
+        "landuse": "residential",
+        "name": "Joyo Land Town House",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.592307,
+          -7.9428891
+        ]
+      },
+      "id": "way/1325578911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1325578912",
+        "landuse": "residential",
+        "name": "Perumahan Uniga",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5914346,
+          -7.9434518
+        ]
+      },
+      "id": "way/1325578912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1325578913",
+        "alt_name": "Perumahan Joyo Grand",
+        "landuse": "residential",
+        "name": "Joyo Grand",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5945778,
+          -7.9432951
+        ]
+      },
+      "id": "way/1325578913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1326352668",
+        "landuse": "residential",
+        "name": "Dieng Flower",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.603904,
+          -7.9802365
+        ]
+      },
+      "id": "way/1326352668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1326441050",
+        "landuse": "residential",
+        "name": "Bukit Dieng Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6001365,
+          -7.9742819
+        ]
+      },
+      "id": "way/1326441050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327064751",
+        "landuse": "residential",
+        "name": "Green Palm",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.615931,
+          -7.9823154
+        ]
+      },
+      "id": "way/1327064751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327175804",
+        "landuse": "residential",
+        "name": "Citramas Raya",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5881196,
+          -7.9532787
+        ]
+      },
+      "id": "way/1327175804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327583523",
+        "landuse": "residential",
+        "name": "Northfield",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6049859,
+          -7.9754423
+        ]
+      },
+      "id": "way/1327583523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1327583528",
+        "landuse": "residential",
+        "name": "Viqui Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6065483,
+          -7.9748397
+        ]
+      },
+      "id": "way/1327583528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328180265",
+        "landuse": "residential",
+        "name": "Griya Pesona Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6079465,
+          -7.9783184
+        ]
+      },
+      "id": "way/1328180265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328180266",
+        "landuse": "residential",
+        "name": "Metro Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6087418,
+          -7.9788663
+        ]
+      },
+      "id": "way/1328180266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328180267",
+        "landuse": "residential",
+        "name": "Bandulan Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6082861,
+          -7.9790087
+        ]
+      },
+      "id": "way/1328180267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328573731",
+        "landuse": "residential",
+        "name": "Permata Intan Agung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.597139,
+          -7.9831383
+        ]
+      },
+      "id": "way/1328573731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1358526570",
+        "landuse": "residential",
+        "name": "Mulya Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5946168,
+          -7.9835795
+        ]
+      },
+      "id": "way/1358526570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360686161",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6074454,
+          -7.9420464
+        ]
+      },
+      "id": "way/1360686161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360811202",
+        "landuse": "residential",
+        "name": "Grand Alam Jingga",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6009439,
+          -7.9434148
+        ]
+      },
+      "id": "way/1360811202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360811203",
+        "landuse": "residential",
+        "name": "Pesona Bougenville",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6015441,
+          -7.9440159
+        ]
+      },
+      "id": "way/1360811203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360811551",
+        "landuse": "residential",
+        "name": "Dinoyo Royal Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6030067,
+          -7.9393034
+        ]
+      },
+      "id": "way/1360811551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360974698",
+        "alt_name": "Perumahan Dieng Townhouse",
+        "landuse": "residential",
+        "name": "Dieng Townhouse",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6089895,
+          -7.9749505
+        ]
+      },
+      "id": "way/1360974698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1367650194",
+        "landuse": "residential",
+        "name": "Griya Mulyorejo",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6026308,
+          -7.9875671
+        ]
+      },
+      "id": "way/1367650194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1367650195",
+        "landuse": "residential",
+        "name": "Perum Taman Mulyorejo",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6029183,
+          -7.9875039
+        ]
+      },
+      "id": "way/1367650195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370476101",
+        "landuse": "residential",
+        "name": "Graha Merjosari Asri",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6015721,
+          -7.9473926
+        ]
+      },
+      "id": "way/1370476101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372353940",
+        "alt_name": "Perumahan Puncak Dieng",
+        "landuse": "residential",
+        "name": "Puncak Dieng Eksklusif",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5972266,
+          -7.9704007
+        ]
+      },
+      "id": "way/1372353940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377151307",
+        "landuse": "residential",
+        "name": "Pine Hill",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5937684,
+          -7.9547813
+        ]
+      },
+      "id": "way/1377151307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377423415",
+        "landuse": "residential",
+        "name": "Villa Puncak Tidar",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5902526,
+          -7.9609362
+        ]
+      },
+      "id": "way/1377423415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621310",
+        "alt_name": "Perumahan Emerald Garden Bumiayu",
+        "landuse": "residential",
+        "name": "Emerald Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6340468,
+          -8.0305958
+        ]
+      },
+      "id": "way/1383621310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621313",
+        "landuse": "residential",
+        "name": "Wonowaru Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6504975,
+          -8.0333082
+        ]
+      },
+      "id": "way/1383621313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621317",
+        "alt_name": "Perumahan Puri Cempaka Putih III",
+        "landuse": "residential",
+        "name": "Puri Cempaka Putih 3",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6410651,
+          -8.0273649
+        ]
+      },
+      "id": "way/1383621317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621318",
+        "alt_name": "Perumahan Puri Cempaka Putih II",
+        "landuse": "residential",
+        "name": "Puri Cempaka Putih 2",
+        "official_name": "Perumahan Puri Cempaka Putih 2",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64043,
+          -8.0299117
+        ]
+      },
+      "id": "way/1383621318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621319",
+        "alt_name": "Perumahan Puri Cempaka Putih I",
+        "landuse": "residential",
+        "name": "Puri Cempaka Putih 1",
+        "official_name": "Perumahan Puri Cempaka Putih 1",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6405862,
+          -8.0342556
+        ]
+      },
+      "id": "way/1383621319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621320",
+        "landuse": "residential",
+        "name": "Puri Taman Agung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.638879,
+          -8.0364612
+        ]
+      },
+      "id": "way/1383621320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621321",
+        "landuse": "residential",
+        "name": "Puri Diva Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6395299,
+          -8.0368316
+        ]
+      },
+      "id": "way/1383621321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621322",
+        "landuse": "residential",
+        "name": "Haris Land",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6397804,
+          -8.0368659
+        ]
+      },
+      "id": "way/1383621322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383621330",
+        "landuse": "residential",
+        "name": "Rajasa Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6375878,
+          -8.0261221
+        ]
+      },
+      "id": "way/1383621330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383714845",
+        "landuse": "residential",
+        "name": "Graha Agung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5924721,
+          -7.9458309
+        ]
+      },
+      "id": "way/1383714845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383999609",
+        "landuse": "residential",
+        "name": "Amany Land",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6408615,
+          -7.9981048
+        ]
+      },
+      "id": "way/1383999609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1383999614",
+        "alt_name": "Perumahan Griya Harmony Residence",
+        "landuse": "residential",
+        "name": "Griya Harmony Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6400589,
+          -7.9994844
+        ]
+      },
+      "id": "way/1383999614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1384249010",
+        "alt_name": "Perumahan Mutiara Garden",
+        "landuse": "residential",
+        "name": "Mutiara Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6475361,
+          -8.0005227
+        ]
+      },
+      "id": "way/1384249010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1384249013",
+        "alt_name": "Perumahan Buring Indah Regency III",
+        "landuse": "residential",
+        "name": "Buring Indah Regency III",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.646092,
+          -8.0069153
+        ]
+      },
+      "id": "way/1384249013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1384249014",
+        "alt_name": "Perumahan Grand Mumtaz Residence",
+        "landuse": "residential",
+        "name": "Grand Mumtaz Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6462224,
+          -8.0061551
+        ]
+      },
+      "id": "way/1384249014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387506811",
+        "landuse": "residential",
+        "name": "Perumahan Dinas LP Wanita Malang",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6188559,
+          -8.017566
+        ]
+      },
+      "id": "way/1387506811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387506819",
+        "alt_name": "Perumahan Kebonsari",
+        "landuse": "residential",
+        "name": "Kebonsari Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.619282,
+          -8.0161641
+        ]
+      },
+      "id": "way/1387506819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387506820",
+        "landuse": "residential",
+        "name": "Tirtasari Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6171125,
+          -8.0130993
+        ]
+      },
+      "id": "way/1387506820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387856640",
+        "alt_name": "Perumahan Graha Kartika",
+        "landuse": "residential",
+        "name": "Graha Kartika",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6026836,
+          -8.0065435
+        ]
+      },
+      "id": "way/1387856640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387856641",
+        "alt_name": "Perumahan Grand Tanjung Priok",
+        "landuse": "residential",
+        "name": "Grand Tanjung Priok",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6053258,
+          -8.0085043
+        ]
+      },
+      "id": "way/1387856641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1387856651",
+        "landuse": "residential",
+        "name": "Griya Tanjung Priok Jaya 2",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6000329,
+          -8.0036083
+        ]
+      },
+      "id": "way/1387856651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182683",
+        "landuse": "residential",
+        "name": "Griya Bakalan Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6033119,
+          -8.0048319
+        ]
+      },
+      "id": "way/1388182683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182699",
+        "landuse": "residential",
+        "name": "The Aksha Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5986343,
+          -8.0050898
+        ]
+      },
+      "id": "way/1388182699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182709",
+        "alt_name": "Perum Mulyorejo Asri",
+        "landuse": "residential",
+        "name": "Mulyorejo Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6030384,
+          -7.996497
+        ]
+      },
+      "id": "way/1388182709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182710",
+        "landuse": "residential",
+        "name": "Graha Sukun Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6048028,
+          -7.9957649
+        ]
+      },
+      "id": "way/1388182710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182711",
+        "landuse": "residential",
+        "name": "Griya Mulya",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6049138,
+          -7.9955306
+        ]
+      },
+      "id": "way/1388182711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182712",
+        "alt_name": "Perumahan Bale Balew",
+        "landuse": "residential",
+        "name": "Bale-Bale Cluster",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6064947,
+          -7.9958289
+        ]
+      },
+      "id": "way/1388182712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388182714",
+        "landuse": "residential",
+        "name": "Mahabharata Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6047012,
+          -7.9982934
+        ]
+      },
+      "id": "way/1388182714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1408954386",
+        "landuse": "residential",
+        "name": "Goodland Residence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5947595,
+          -7.9851646
+        ]
+      },
+      "id": "way/1408954386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378014",
+        "alt_name": "Perumahan Palmira Graha",
+        "landuse": "residential",
+        "name": "Palmira Graha",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5808935,
+          -7.9379249
+        ]
+      },
+      "id": "way/1411378014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378015",
+        "landuse": "residential",
+        "name": "Grand Soeroso",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5799641,
+          -7.9391549
+        ]
+      },
+      "id": "way/1411378015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378019",
+        "landuse": "residential",
+        "name": "La Tansa 2",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5807407,
+          -7.9404992
+        ]
+      },
+      "id": "way/1411378019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378020",
+        "landuse": "residential",
+        "name": "Villa Puncak Tidar",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5827495,
+          -7.9445845
+        ]
+      },
+      "id": "way/1411378020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378022",
+        "landuse": "residential",
+        "name": "Medina Residence 3",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.569853,
+          -7.9382019
+        ]
+      },
+      "id": "way/1411378022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378029",
+        "landuse": "residential",
+        "name": "Grand Joyo Agung Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5810127,
+          -7.9371429
+        ]
+      },
+      "id": "way/1411378029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378030",
+        "landuse": "residential",
+        "name": "New Villa Joyo Agung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5814525,
+          -7.9371609
+        ]
+      },
+      "id": "way/1411378030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378032",
+        "landuse": "residential",
+        "name": "Joyo Agung Regency",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5818315,
+          -7.9379722
+        ]
+      },
+      "id": "way/1411378032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411378033",
+        "landuse": "residential",
+        "name": "The Panorama Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5831718,
+          -7.938166
+        ]
+      },
+      "id": "way/1411378033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412092434",
+        "landuse": "residential",
+        "name": "Genting Asri Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5759225,
+          -7.9367175
+        ]
+      },
+      "id": "way/1412092434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412092436",
+        "landuse": "residential",
+        "name": "Puncak Joyo Agung Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5749488,
+          -7.9363644
+        ]
+      },
+      "id": "way/1412092436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412092438",
+        "landuse": "residential",
+        "name": "La Tansa Cluster",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5761409,
+          -7.9396062
+        ]
+      },
+      "id": "way/1412092438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412092439",
+        "landuse": "residential",
+        "name": "Al Fatih Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5769186,
+          -7.9406519
+        ]
+      },
+      "id": "way/1412092439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412130671",
+        "landuse": "residential",
+        "name": "Alam Sari Pasca UB",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5858823,
+          -7.9387552
+        ]
+      },
+      "id": "way/1412130671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1412130673",
+        "landuse": "residential",
+        "name": "Griya Amarta",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5894005,
+          -7.9395377
+        ]
+      },
+      "id": "way/1412130673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891241",
+        "landuse": "residential",
+        "name": "Green Orchid Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.623834,
+          -7.9317053
+        ]
+      },
+      "id": "way/1418891241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891250",
+        "alt_name": "Perumahan Taman Indah Soekarno Hatta",
+        "landuse": "residential",
+        "name": "Taman Indah Soekarno Hatta",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6174622,
+          -7.9342947
+        ]
+      },
+      "id": "way/1418891250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891252",
+        "landuse": "residential",
+        "name": "Bumi Tunggulwulung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6160412,
+          -7.9296411
+        ]
+      },
+      "id": "way/1418891252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891253",
+        "landuse": "residential",
+        "name": "Azzahra Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.616099,
+          -7.9267536
+        ]
+      },
+      "id": "way/1418891253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891254",
+        "landuse": "residential",
+        "name": "Permata Land",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6165739,
+          -7.9273656
+        ]
+      },
+      "id": "way/1418891254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891255",
+        "landuse": "residential",
+        "name": "Mutiara Jingga",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.616314,
+          -7.9277223
+        ]
+      },
+      "id": "way/1418891255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418972563",
+        "landuse": "residential",
+        "name": "Borobudur Agung",
+        "official_name": "Perumahan Borobudur Agung",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6319927,
+          -7.9348602
+        ]
+      },
+      "id": "way/1418972563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418972564",
+        "landuse": "residential",
+        "name": "Royal Borobudur Residence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6321763,
+          -7.9325486
+        ]
+      },
+      "id": "way/1418972564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092655",
+        "landuse": "residential",
+        "name": "Arumba Utama Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6125457,
+          -7.9268178
+        ]
+      },
+      "id": "way/1419092655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092656",
+        "landuse": "residential",
+        "name": "Arumba Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.611635,
+          -7.9269096
+        ]
+      },
+      "id": "way/1419092656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092658",
+        "alt_name": "Perumahan Arumba Indah",
+        "landuse": "residential",
+        "name": "Arumba Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6108674,
+          -7.9264529
+        ]
+      },
+      "id": "way/1419092658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092660",
+        "landuse": "residential",
+        "name": "The 9 Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6102318,
+          -7.9260247
+        ]
+      },
+      "id": "way/1419092660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092661",
+        "landuse": "residential",
+        "name": "Grand Arumba",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6100304,
+          -7.9253174
+        ]
+      },
+      "id": "way/1419092661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092665",
+        "landuse": "residential",
+        "name": "Cozy Kos Maahyra",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6135272,
+          -7.927694
+        ]
+      },
+      "id": "way/1419092665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092666",
+        "landuse": "residential",
+        "name": "Arumba Hill Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6132049,
+          -7.9275037
+        ]
+      },
+      "id": "way/1419092666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092667",
+        "landuse": "residential",
+        "name": "The Arumba Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6137863,
+          -7.9279261
+        ]
+      },
+      "id": "way/1419092667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092668",
+        "landuse": "residential",
+        "name": "Griya Mitra Arumba",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6139123,
+          -7.9283345
+        ]
+      },
+      "id": "way/1419092668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092669",
+        "landuse": "residential",
+        "name": "Permata Jingga",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6185027,
+          -7.9310205
+        ]
+      },
+      "id": "way/1419092669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419092670",
+        "landuse": "residential",
+        "name": "Griya Shanta Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6218694,
+          -7.9364973
+        ]
+      },
+      "id": "way/1419092670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419318062",
+        "landuse": "residential",
+        "name": "Gurami Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6252546,
+          -7.925121
+        ]
+      },
+      "id": "way/1419318062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419318063",
+        "landuse": "residential",
+        "name": "The City Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6262485,
+          -7.923611
+        ]
+      },
+      "id": "way/1419318063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419318064",
+        "landuse": "residential",
+        "name": "Tasikmadu Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6264082,
+          -7.9229498
+        ]
+      },
+      "id": "way/1419318064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419621338",
+        "landuse": "residential",
+        "name": "Puri Kartika Asri",
+        "official_name": "Perumahan Puri Kartika Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6474903,
+          -7.9394251
+        ]
+      },
+      "id": "way/1419621338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419633094",
+        "landuse": "residential",
+        "name": "Royal Janti Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6213398,
+          -7.9992734
+        ]
+      },
+      "id": "way/1419633094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419633097",
+        "alt_name": "Perum Janti Regencyg",
+        "landuse": "residential",
+        "name": "Janti Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6220735,
+          -8.0000337
+        ]
+      },
+      "id": "way/1419633097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904158",
+        "landuse": "residential",
+        "name": "Sigura Gura Green Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6015684,
+          -7.9519277
+        ]
+      },
+      "id": "way/1419904158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904160",
+        "landuse": "residential",
+        "name": "Graha Indah Sentosa",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6018929,
+          -7.9520691
+        ]
+      },
+      "id": "way/1419904160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904161",
+        "landuse": "residential",
+        "name": "Prisma Cluster",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6024234,
+          -7.9521818
+        ]
+      },
+      "id": "way/1419904161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904164",
+        "alt_name": "Perumahan Sigura Hill",
+        "landuse": "residential",
+        "name": "Sigura Hill",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6029239,
+          -7.9524882
+        ]
+      },
+      "id": "way/1419904164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904165",
+        "landuse": "residential",
+        "name": "de' Cluster Sigura Gura",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6028755,
+          -7.9509803
+        ]
+      },
+      "id": "way/1419904165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904167",
+        "landuse": "residential",
+        "name": "Pondok Alam Sigura Gura",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6050673,
+          -7.9550726
+        ]
+      },
+      "id": "way/1419904167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419904168",
+        "landuse": "residential",
+        "name": "Sigura-Gura Town House",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6067624,
+          -7.9561107
+        ]
+      },
+      "id": "way/1419904168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420034948",
+        "landuse": "residential",
+        "name": "Mutiara Citramas",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5901158,
+          -7.9548822
+        ]
+      },
+      "id": "way/1420034948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420034954",
+        "landuse": "residential",
+        "name": "Gasek Tidar Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.595813,
+          -7.9538678
+        ]
+      },
+      "id": "way/1420034954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420034960",
+        "alt_name": "Perumahan Bukit Cemara Tidar",
+        "landuse": "residential",
+        "name": "Bukit Cemara Tidar",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5930568,
+          -7.9528593
+        ]
+      },
+      "id": "way/1420034960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420120812",
+        "landuse": "residential",
+        "name": "Taman Sulfat",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6494096,
+          -7.9627095
+        ]
+      },
+      "id": "way/1420120812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420120822",
+        "landuse": "residential",
+        "name": "Sulfat Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6486556,
+          -7.9651446
+        ]
+      },
+      "id": "way/1420120822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420123857",
+        "alt_name": "Perumahan BMW",
+        "landuse": "residential",
+        "name": "Bumi Meranti Wangi",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6521027,
+          -7.9633846
+        ]
+      },
+      "id": "way/1420123857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420136119",
+        "alt_name": "Perum Layur Indah",
+        "landuse": "residential",
+        "name": "Layur Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6349424,
+          -7.9335578
+        ]
+      },
+      "id": "way/1420136119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420136121",
+        "landuse": "residential",
+        "name": "Royal Piranha",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6347667,
+          -7.9332376
+        ]
+      },
+      "id": "way/1420136121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420136123",
+        "landuse": "residential",
+        "name": "Piranha Village",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6347775,
+          -7.9318343
+        ]
+      },
+      "id": "way/1420136123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420152535",
+        "landuse": "residential",
+        "name": "Graha Mulia",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6250198,
+          -7.9234297
+        ]
+      },
+      "id": "way/1420152535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420152537",
+        "landuse": "residential",
+        "name": "Taman Tectona Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6229563,
+          -7.9243035
+        ]
+      },
+      "id": "way/1420152537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420152540",
+        "landuse": "residential",
+        "name": "Mutiara Jingga Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6182486,
+          -7.9210343
+        ]
+      },
+      "id": "way/1420152540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420302332",
+        "addr:city": "Kota Malang",
+        "addr:street": "Jl. KH. Malik Dalam",
+        "landuse": "residential",
+        "name": "Perumahan Permata Garden",
+        "residential": "landed",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6478524,
+          -8.0036903
+        ]
+      },
+      "id": "way/1420302332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449675",
+        "alt_name": "Perumahan Bumi Palapa Malang",
+        "landuse": "residential",
+        "name": "Bumi Palapa",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6121454,
+          -7.9305565
+        ]
+      },
+      "id": "way/1420449675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449678",
+        "landuse": "residential",
+        "name": "Griya Saxophone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6111462,
+          -7.9297098
+        ]
+      },
+      "id": "way/1420449678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449679",
+        "landuse": "residential",
+        "name": "Puri Bunga II",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6121522,
+          -7.9293524
+        ]
+      },
+      "id": "way/1420449679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449681",
+        "landuse": "residential",
+        "name": "Saxofone Land",
+        "not:name": "Saxophone Land",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6105287,
+          -7.9293969
+        ]
+      },
+      "id": "way/1420449681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449685",
+        "landuse": "residential",
+        "name": "Permata Saxofone",
+        "not:name": "Permata Saxophone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6099243,
+          -7.9290051
+        ]
+      },
+      "id": "way/1420449685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420449686",
+        "alt_name": "Perumahan De Saxofone",
+        "landuse": "residential",
+        "name": "de` Saxofone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6088204,
+          -7.9313442
+        ]
+      },
+      "id": "way/1420449686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567192",
+        "alt_name": "Perumahan New Puri Kartika Asri",
+        "landuse": "residential",
+        "name": "New Puri Kartika Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6349991,
+          -8.0339349
+        ]
+      },
+      "id": "way/1420567192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567193",
+        "alt_name": "Perumahan Karya Kartika Graha",
+        "landuse": "residential",
+        "name": "Karya Kartika Graha",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6344572,
+          -8.0355335
+        ]
+      },
+      "id": "way/1420567193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567195",
+        "landuse": "residential",
+        "name": "Cassava Regency 2",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6325787,
+          -8.0387237
+        ]
+      },
+      "id": "way/1420567195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567197",
+        "landuse": "residential",
+        "name": "KPRI RSSA Regency",
+        "residential": "gatedww",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6338128,
+          -8.0404969
+        ]
+      },
+      "id": "way/1420567197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567198",
+        "alt_name": "Perumahan Babatan Indah",
+        "landuse": "residential",
+        "name": "Babatan Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.633396,
+          -8.0403284
+        ]
+      },
+      "id": "way/1420567198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420567199",
+        "alt_name": "Perumahan Puri Kartika Asri",
+        "landuse": "residential",
+        "name": "Puri Kartika Asri",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6363703,
+          -8.0395613
+        ]
+      },
+      "id": "way/1420567199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420685477",
+        "landuse": "residential",
+        "name": "Permata Tlogomas",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6035835,
+          -7.934976
+        ]
+      },
+      "id": "way/1420685477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420685479",
+        "landuse": "residential",
+        "name": "Bukit Hijau",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6014572,
+          -7.9290905
+        ]
+      },
+      "id": "way/1420685479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420685480",
+        "landuse": "residential",
+        "name": "Permata Hijau",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.600262,
+          -7.9287011
+        ]
+      },
+      "id": "way/1420685480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420815309",
+        "landuse": "residential",
+        "name": "Citra Kepuh Raya",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6229777,
+          -8.0081997
+        ]
+      },
+      "id": "way/1420815309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421141104",
+        "landuse": "residential",
+        "name": "Pondok Indah Borobudur",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6391401,
+          -7.9354034
+        ]
+      },
+      "id": "way/1421141104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421141109",
+        "landuse": "residential",
+        "name": "Villa Ikan Paus",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6396369,
+          -7.9357634
+        ]
+      },
+      "id": "way/1421141109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421408333",
+        "landuse": "residential",
+        "name": "Puri Nirwana Gajayana",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.606647,
+          -7.9472479
+        ]
+      },
+      "id": "way/1421408333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421408334",
+        "alt_name": "Perumahan Istana Gajayana",
+        "landuse": "residential",
+        "name": "Istana Gajayana",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6077295,
+          -7.9471831
+        ]
+      },
+      "id": "way/1421408334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421564401",
+        "landuse": "residential",
+        "name": "Garden Palma Estate",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.613439,
+          -7.9367226
+        ]
+      },
+      "id": "way/1421564401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1421956291",
+        "landuse": "residential",
+        "name": "Perum Taman Anggrek",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6233286,
+          -7.9543104
+        ]
+      },
+      "id": "way/1421956291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1424840333",
+        "landuse": "residential",
+        "name": "DeLavender Town House",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6247125,
+          -7.9432892
+        ]
+      },
+      "id": "way/1424840333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426200774",
+        "landuse": "residential",
+        "name": "The Green Diamond",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6296182,
+          -8.0205415
+        ]
+      },
+      "id": "way/1426200774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426566271",
+        "landuse": "residential",
+        "name": "Garaya Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6284425,
+          -8.0276436
+        ]
+      },
+      "id": "way/1426566271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426566279",
+        "alt_name": "Perumahan Kebonsari Indah",
+        "landuse": "residential",
+        "name": "Kebonsari Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.628015,
+          -8.0314898
+        ]
+      },
+      "id": "way/1426566279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426566283",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6236157,
+          -8.0276843
+        ]
+      },
+      "id": "way/1426566283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1426566286",
+        "fixme": "inaccurate border",
+        "landuse": "residential",
+        "name": "City Side Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6244832,
+          -8.0303046
+        ]
+      },
+      "id": "way/1426566286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1427485672",
+        "landuse": "residential",
+        "name": "Griya Wilis Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6182035,
+          -7.9709382
+        ]
+      },
+      "id": "way/1427485672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429285699",
+        "landuse": "residential",
+        "name": "Dirgantara Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6541522,
+          -7.9850108
+        ]
+      },
+      "id": "way/1429285699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429469613",
+        "landuse": "residential",
+        "name": "Bumi Bakahuni Executive",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6071273,
+          -8.0059998
+        ]
+      },
+      "id": "way/1429469613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429469616",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6042273,
+          -8.0075351
+        ]
+      },
+      "id": "way/1429469616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429469617",
+        "landuse": "residential",
+        "name": "Cluster Bumiemas",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6079909,
+          -8.0071512
+        ]
+      },
+      "id": "way/1429469617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429469618",
+        "landuse": "residential",
+        "name": "Grand Mashyur City",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6110046,
+          -8.0060986
+        ]
+      },
+      "id": "way/1429469618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431541146",
+        "landuse": "residential",
+        "name": "Cahaya Cempaka Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6291978,
+          -7.9335398
+        ]
+      },
+      "id": "way/1431541146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431541147",
+        "alt_name": "Dwiga Regency",
+        "landuse": "residential",
+        "name": "D`Wiga Regency",
+        "not:name": "D'Wiga Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6281886,
+          -7.9306921
+        ]
+      },
+      "id": "way/1431541147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431541164",
+        "alt_name": "Perumahan ABM Permaiw",
+        "landuse": "residential",
+        "name": "ABM Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6268917,
+          -7.9324158
+        ]
+      },
+      "id": "way/1431541164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1435737245",
+        "landuse": "residential",
+        "name": "Cluster Green Garden Saxophone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6046601,
+          -7.925687
+        ]
+      },
+      "id": "way/1435737245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1435737246",
+        "landuse": "residential",
+        "name": "Grand Mahabharata Saxophone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6040196,
+          -7.9254765
+        ]
+      },
+      "id": "way/1435737246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1435737251",
+        "alt_name": "Perumahan Permata Kencana Saxofone",
+        "landuse": "residential",
+        "name": "Permata Kencana Saxofon",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6043765,
+          -7.9244064
+        ]
+      },
+      "id": "way/1435737251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1435737252",
+        "landuse": "residential",
+        "name": "River Village Saxophone",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6053902,
+          -7.9270348
+        ]
+      },
+      "id": "way/1435737252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1435811708",
+        "landuse": "residential",
+        "name": "Griya Tunggul Sari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6069151,
+          -7.9288265
+        ]
+      },
+      "id": "way/1435811708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1455902426",
+        "fee": "yes",
+        "landuse": "residential",
+        "name": "Kampung Warna Warni Jodipan",
+        "name:en": "Colorful Village Jodipan",
+        "residential": "irregular_settlement",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6378028,
+          -7.9833453
+        ]
+      },
+      "id": "way/1455902426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1455902427",
+        "fee": "yes",
+        "landuse": "residential",
+        "name": "Kampung Tridi",
+        "residential": "irregular_settlement",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6378603,
+          -7.9822567
+        ]
+      },
+      "id": "way/1455902427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1455902429",
+        "landuse": "residential",
+        "name": "Kampung Biru Arema",
+        "residential": "irregular_settlement",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6370735,
+          -7.981529
+        ]
+      },
+      "id": "way/1455902429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282339",
+        "landuse": "residential",
+        "name": "Sulfat Blossom",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6562296,
+          -7.9541658
+        ]
+      },
+      "id": "way/1456282339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282344",
+        "landuse": "residential",
+        "name": "Pandanwangi Utama Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6591735,
+          -7.9552104
+        ]
+      },
+      "id": "way/1456282344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282345",
+        "landuse": "residential",
+        "name": "Amarii Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.658407,
+          -7.9560842
+        ]
+      },
+      "id": "way/1456282345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282346",
+        "landuse": "residential",
+        "name": "Harmony Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6624248,
+          -7.9547507
+        ]
+      },
+      "id": "way/1456282346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282349",
+        "landuse": "residential",
+        "name": "Pandanwangi Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6626344,
+          -7.9560966
+        ]
+      },
+      "id": "way/1456282349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282360",
+        "landuse": "residential",
+        "name": "Kanigraha",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6576362,
+          -7.9520959
+        ]
+      },
+      "id": "way/1456282360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282362",
+        "landuse": "residential",
+        "name": "Pandanwangi Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6597328,
+          -7.9543866
+        ]
+      },
+      "id": "way/1456282362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282363",
+        "landuse": "residential",
+        "name": "Pandanwangi Green Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6594419,
+          -7.9547619
+        ]
+      },
+      "id": "way/1456282363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456282366",
+        "landuse": "residential",
+        "name": "Sulfat Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6593204,
+          -7.9538065
+        ]
+      },
+      "id": "way/1456282366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456481083",
+        "landuse": "residential",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6582153,
+          -7.9578268
+        ]
+      },
+      "id": "way/1456481083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456481084",
+        "landuse": "residential",
+        "name": "Pandanwangi Royal Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6581725,
+          -7.9584988
+        ]
+      },
+      "id": "way/1456481084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456481085",
+        "landuse": "residential",
+        "name": "Pandanwangi Royal Park - Exotic Cluster",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6568681,
+          -7.9590611
+        ]
+      },
+      "id": "way/1456481085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456481089",
+        "landuse": "residential",
+        "name": "Golden Valley",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6602968,
+          -7.9598769
+        ]
+      },
+      "id": "way/1456481089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1457399832",
+        "landuse": "residential",
+        "name": "Pantai Gading",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6490797,
+          -8.0094323
+        ]
+      },
+      "id": "way/1457399832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1457399834",
+        "landuse": "residential",
+        "name": "Citra Nirwana Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64805,
+          -8.0103927
+        ]
+      },
+      "id": "way/1457399834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1457399837",
+        "alt_name": "Buring Indah Regency VI",
+        "landuse": "residential",
+        "name": "Buring Indah Regency 6",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6616092,
+          -8.0142893
+        ]
+      },
+      "id": "way/1457399837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1457407002",
+        "alt_name": "Perumahan Gor Ragil Regency",
+        "landuse": "residential",
+        "name": "Gor Ragil Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6453643,
+          -8.0128078
+        ]
+      },
+      "id": "way/1457407002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1458330696",
+        "landuse": "residential",
+        "name": "Pondok Puspa Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6023848,
+          -7.9884584
+        ]
+      },
+      "id": "way/1458330696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1459093467",
+        "landuse": "residential",
+        "name": "Citra Arjosari Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6573041,
+          -7.9319969
+        ]
+      },
+      "id": "way/1459093467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460000709",
+        "landuse": "residential",
+        "name": "Wisma Perawat Bhakti Luhur",
+        "residential": "dormitory",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6253171,
+          -7.9508929
+        ]
+      },
+      "id": "way/1460000709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460433868",
+        "landuse": "residential",
+        "name": "Pondok Indah Bumi Ayu",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6383044,
+          -8.002023
+        ]
+      },
+      "id": "way/1460433868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460433879",
+        "landuse": "residential",
+        "name": "Bumi Royal Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6390768,
+          -8.0081761
+        ]
+      },
+      "id": "way/1460433879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460433881",
+        "landuse": "residential",
+        "name": "Bayam Merah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6384373,
+          -8.0081277
+        ]
+      },
+      "id": "way/1460433881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460433888",
+        "landuse": "residential",
+        "name": "Graha Mayjend Sungkono",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6419128,
+          -8.0012677
+        ]
+      },
+      "id": "way/1460433888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681356",
+        "landuse": "residential",
+        "name": "Grand Amerlia",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6404291,
+          -8.0058491
+        ]
+      },
+      "id": "way/1460681356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681364",
+        "landuse": "residential",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6397578,
+          -8.0114189
+        ]
+      },
+      "id": "way/1460681364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681365",
+        "landuse": "residential",
+        "name": "Permata Royal Manisa",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6403586,
+          -8.0120438
+        ]
+      },
+      "id": "way/1460681365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681386",
+        "landuse": "residential",
+        "name": "Ken Arok Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6428892,
+          -8.0086217
+        ]
+      },
+      "id": "way/1460681386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681388",
+        "landuse": "residential",
+        "name": "Griya Manisa Satelit",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6412723,
+          -8.0123667
+        ]
+      },
+      "id": "way/1460681388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460681401",
+        "landuse": "residential",
+        "name": "The Palm Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6419214,
+          -8.0184391
+        ]
+      },
+      "id": "way/1460681401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460682135",
+        "alt_name": "Perum Taman Janti",
+        "landuse": "residential",
+        "name": "Taman Janti",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6255951,
+          -8.0083504
+        ]
+      },
+      "id": "way/1460682135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460687228",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6248088,
+          -8.0146893
+        ]
+      },
+      "id": "way/1460687228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461770749",
+        "landuse": "residential",
+        "name": "De Adisucipto Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6633901,
+          -7.9493131
+        ]
+      },
+      "id": "way/1461770749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461770758",
+        "landuse": "residential",
+        "name": "Grand Pesona Pandanwangi",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6625859,
+          -7.9533567
+        ]
+      },
+      "id": "way/1461770758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461770760",
+        "landuse": "residential",
+        "name": "Puri Nirwana Pandanwangi",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6625971,
+          -7.9528614
+        ]
+      },
+      "id": "way/1461770760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461770761",
+        "landuse": "residential",
+        "name": "De Cluster Nirwana Pandanwangi",
+        "official_name": "Perumahan De Cluster Nirwana Pandanwangi",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.661618,
+          -7.9521029
+        ]
+      },
+      "id": "way/1461770761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461974578",
+        "landuse": "residential",
+        "name": "Graha Kencana",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.657974,
+          -7.92232
+        ]
+      },
+      "id": "way/1461974578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461974579",
+        "landuse": "residential",
+        "name": "The Balearjosari Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6549386,
+          -7.9239951
+        ]
+      },
+      "id": "way/1461974579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461974580",
+        "landuse": "residential",
+        "name": "Puri Indah Balearjosari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6553045,
+          -7.9242826
+        ]
+      },
+      "id": "way/1461974580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462097578",
+        "landuse": "residential",
+        "name": "Polowijen Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6443919,
+          -7.9278993
+        ]
+      },
+      "id": "way/1462097578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462794781",
+        "alt_name": "Bale Arjosari Permai",
+        "landuse": "residential",
+        "name": "Balearjosari Permai",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6401734,
+          -7.9208303
+        ]
+      },
+      "id": "way/1462794781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462794788",
+        "landuse": "residential",
+        "name": "Griya Damai Sejahtera",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6411309,
+          -7.921785
+        ]
+      },
+      "id": "way/1462794788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462794790",
+        "landuse": "residential",
+        "name": "Royal Chrysant - Riverside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6429372,
+          -7.9220064
+        ]
+      },
+      "id": "way/1462794790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462794794",
+        "landuse": "residential",
+        "name": "Royal Regency - Riverside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6471305,
+          -7.9238273
+        ]
+      },
+      "id": "way/1462794794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462794797",
+        "landuse": "residential",
+        "name": "Riverside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6445925,
+          -7.9233603
+        ]
+      },
+      "id": "way/1462794797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463042319",
+        "landuse": "residential",
+        "name": "The Irish Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6471355,
+          -7.9178011
+        ]
+      },
+      "id": "way/1463042319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463042324",
+        "landuse": "residential",
+        "name": "Serenia Garden Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6434958,
+          -7.915853
+        ]
+      },
+      "id": "way/1463042324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463042329",
+        "alt_name": "Perumahan Karanglo Indah",
+        "landuse": "residential",
+        "name": "Karanglo Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6448415,
+          -7.916886
+        ]
+      },
+      "id": "way/1463042329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463869783",
+        "landuse": "residential",
+        "name": "Myrra Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6105269,
+          -7.9360953
+        ]
+      },
+      "id": "way/1463869783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463869804",
+        "landuse": "residential",
+        "name": "Plamet Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6080639,
+          -7.9340839
+        ]
+      },
+      "id": "way/1463869804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463949380",
+        "landuse": "residential",
+        "name": "Bumi Sulfat Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6515086,
+          -7.9658548
+        ]
+      },
+      "id": "way/1463949380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464092562",
+        "landuse": "residential",
+        "name": "Mutiara Sulfat",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6519909,
+          -7.969321
+        ]
+      },
+      "id": "way/1464092562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464092563",
+        "landuse": "residential",
+        "name": "Griya Warinoi",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.651079,
+          -7.9690821
+        ]
+      },
+      "id": "way/1464092563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464092571",
+        "landuse": "residential",
+        "name": "Sulfat Green Land",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.654693,
+          -7.9644679
+        ]
+      },
+      "id": "way/1464092571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464092574",
+        "landuse": "residential",
+        "name": "Sulfat Rivera Residence",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6549132,
+          -7.9660076
+        ]
+      },
+      "id": "way/1464092574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464092575",
+        "landuse": "residential",
+        "name": "Sulfat de Castello",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6538898,
+          -7.9636553
+        ]
+      },
+      "id": "way/1464092575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464094924",
+        "landuse": "residential",
+        "name": "Sun Sulfat",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6542137,
+          -7.9585816
+        ]
+      },
+      "id": "way/1464094924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464306077",
+        "landuse": "residential",
+        "name": "Pondok Harapan Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6069136,
+          -7.9600591
+        ]
+      },
+      "id": "way/1464306077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464889884",
+        "landuse": "residential",
+        "name": "Bajang Ratu Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6390342,
+          -7.9441599
+        ]
+      },
+      "id": "way/1464889884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464996871",
+        "landuse": "residential",
+        "name": "The Lely Townhouse 1",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6293242,
+          -7.9551043
+        ]
+      },
+      "id": "way/1464996871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465078858",
+        "landuse": "residential",
+        "name": "Jasmine Town House",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6295902,
+          -7.9439011
+        ]
+      },
+      "id": "way/1465078858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465078862",
+        "landuse": "residential",
+        "name": "Citra Cengger Ayam",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6311415,
+          -7.9451877
+        ]
+      },
+      "id": "way/1465078862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465078863",
+        "landuse": "residential",
+        "name": "Bukirsari Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6309148,
+          -7.9443027
+        ]
+      },
+      "id": "way/1465078863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465078866",
+        "landuse": "residential",
+        "name": "Citra Kedawung Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6330037,
+          -7.951783
+        ]
+      },
+      "id": "way/1465078866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465258042",
+        "landuse": "residential",
+        "name": "Perumahan Andalan Barcelona",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6041012,
+          -7.9471926
+        ]
+      },
+      "id": "way/1465258042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465669073",
+        "landuse": "residential",
+        "name": "Sativa",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6466099,
+          -8.0216288
+        ]
+      },
+      "id": "way/1465669073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465669078",
+        "landuse": "residential",
+        "name": "Citra Gading",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64701,
+          -8.0196111
+        ]
+      },
+      "id": "way/1465669078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465669081",
+        "landuse": "residential",
+        "name": "Sunrise Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6463135,
+          -8.0171925
+        ]
+      },
+      "id": "way/1465669081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465695755",
+        "landuse": "residential",
+        "name": "Manissa Royal Residence 2",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6412498,
+          -8.0129373
+        ]
+      },
+      "id": "way/1465695755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465695767",
+        "landuse": "residential",
+        "name": "Grand Hannan",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6427231,
+          -8.0126766
+        ]
+      },
+      "id": "way/1465695767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465695774",
+        "landuse": "residential",
+        "name": "Rusunawa Buring 2",
+        "operator": "Dinas Perumahan dan Kawasan Pemukiman Pemerintah Kota Malang - UPT Rumah Susun Sederhana Sewa",
+        "operator:type": "government",
+        "residential": "apartments",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6449642,
+          -8.0104572
+        ]
+      },
+      "id": "way/1465695774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1466163909",
+        "addr:city": "Malang",
+        "addr:district": "Kedungkandang",
+        "addr:postcode": "65136",
+        "addr:province": "Jawa Timur",
+        "addr:street": "Jalan Mayor Jenderal Sungkono",
+        "addr:subdistrict": "Buring",
+        "landuse": "residential",
+        "name": "Rusunawa Buring 1",
+        "official_name": "Rusunawa Buring 1 Kota Malang",
+        "operator:type": "government",
+        "residential": "apartments",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6453478,
+          -7.996404
+        ]
+      },
+      "id": "way/1466163909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1466416484",
+        "landuse": "residential",
+        "name": "Tiara Garden",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6493081,
+          -7.9970819
+        ]
+      },
+      "id": "way/1466416484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1466625282",
+        "alt_name": "Perumahan Salahutu Indah 1",
+        "landuse": "residential",
+        "name": "Salahutu Indah 1",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6056788,
+          -7.9671849
+        ]
+      },
+      "id": "way/1466625282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467183642",
+        "landuse": "residential",
+        "name": "Griya Warna 1",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6153419,
+          -8.0046746
+        ]
+      },
+      "id": "way/1467183642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467183650",
+        "landuse": "residential",
+        "name": "Grand Arsy",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6093728,
+          -8.0001515
+        ]
+      },
+      "id": "way/1467183650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467183653",
+        "alt_name": "De Cluster City",
+        "landuse": "residential",
+        "name": "de` Cluster City",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6093,
+          -8.0006236
+        ]
+      },
+      "id": "way/1467183653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1471999034",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6063338,
+          -7.9741467
+        ]
+      },
+      "id": "way/1471999034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472386070",
+        "landuse": "residential",
+        "name": "Puri Bunga Estate",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6117305,
+          -7.9337148
+        ]
+      },
+      "id": "way/1472386070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472386071",
+        "landuse": "residential",
+        "name": "Permata Brantas Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6116906,
+          -7.9327996
+        ]
+      },
+      "id": "way/1472386071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472708521",
+        "landuse": "residential",
+        "name": "Griya Bathari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5980588,
+          -7.9539986
+        ]
+      },
+      "id": "way/1472708521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472708522",
+        "landuse": "residential",
+        "name": "Eka Cakra Regency",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5983268,
+          -7.9540835
+        ]
+      },
+      "id": "way/1472708522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472708523",
+        "landuse": "residential",
+        "name": "Gasek Inside",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5994145,
+          -7.9528335
+        ]
+      },
+      "id": "way/1472708523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472708526",
+        "alt_name": "Perumahan Tidar View",
+        "landuse": "residential",
+        "name": "Tidar View",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5989536,
+          -7.954518
+        ]
+      },
+      "id": "way/1472708526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474126589",
+        "landuse": "residential",
+        "name": "Joyo Agung White House",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5797417,
+          -7.9370021
+        ]
+      },
+      "id": "way/1474126589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1475058812",
+        "landuse": "residential",
+        "name": "Sigura-Gura Cozy Kos",
+        "residential": "apartments",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6048382,
+          -7.9564385
+        ]
+      },
+      "id": "way/1475058812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1475093698",
+        "landuse": "residential",
+        "name": "Golden House Sigura-Gura",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6073255,
+          -7.9573285
+        ]
+      },
+      "id": "way/1475093698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1475093699",
+        "landuse": "residential",
+        "name": "Cozy Kos Brawijaya",
+        "residential": "apartments",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6073407,
+          -7.9570785
+        ]
+      },
+      "id": "way/1475093699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1475093701",
+        "landuse": "residential",
+        "name": "Town House Taman Sigura-Gura Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6074502,
+          -7.9567384
+        ]
+      },
+      "id": "way/1475093701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1476256357",
+        "landuse": "residential",
+        "name": "Bajang Ratu Indah",
+        "official_name": "Perumahan Bajang Ratu Indah",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6378207,
+          -7.9434148
+        ]
+      },
+      "id": "way/1476256357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1476781571",
+        "landuse": "residential",
+        "name": "Arjowinangun Green Park",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6432751,
+          -8.0445294
+        ]
+      },
+      "id": "way/1476781571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1476781572",
+        "landuse": "residential",
+        "name": "Griya Wijaya Kusuma",
+        "official_name": "Perumahan Griya Wijaya Kusuma",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.644174,
+          -8.0443347
+        ]
+      },
+      "id": "way/1476781572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1483667014",
+        "landuse": "residential",
+        "name": "De Royal Nirwana",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5889059,
+          -7.9850183
+        ]
+      },
+      "id": "way/1483667014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1483667015",
+        "landuse": "residential",
+        "name": "Graha Mustika",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5898112,
+          -7.9848109
+        ]
+      },
+      "id": "way/1483667015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1485382872",
+        "landuse": "residential",
+        "name": "Pelita Kebonsari",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6174836,
+          -8.0200732
+        ]
+      },
+      "id": "way/1485382872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1487509502",
+        "landuse": "residential",
+        "name": "Lembah Dieng",
+        "residential": "gated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5995899,
+          -7.9687243
+        ]
+      },
+      "id": "way/1487509502"
+    }
+  ]
+}

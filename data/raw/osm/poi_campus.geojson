@@ -1,0 +1,1192 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-18T14:33:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/136957950",
+        "amenity": "university",
+        "name": "Universitas Gajayana",
+        "short_name": "Uniga Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6025446,
+          -7.9400948
+        ]
+      },
+      "id": "way/136957950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165177866",
+        "addr:city": "Malang",
+        "addr:housenumber": "9",
+        "addr:postcode": "65141",
+        "addr:street": "Jalan Soekarno-Hatta",
+        "amenity": "college",
+        "education": "college",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Politeknik Negeri Malang",
+        "operator": "Polinema",
+        "operator:type": "university",
+        "website": "https://www.polinema.ac.id/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6154776,
+          -7.9455671
+        ]
+      },
+      "id": "way/165177866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234079194",
+        "addr:housenumber": "5",
+        "addr:postcode": "65113",
+        "addr:street": "Jl. Semarang",
+        "amenity": "university",
+        "education": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "WiFi.UM",
+        "name": "Universitas Negeri Malang",
+        "name:en": "State University of Malang",
+        "wikidata": "Q4250919",
+        "wikipedia": "en:State University of Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6175645,
+          -7.9615051
+        ]
+      },
+      "id": "way/234079194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395792035",
+        "addr:city": "Malang",
+        "addr:country": "ID",
+        "addr:full": "Jalan Bendungan Sigura-Gura",
+        "addr:housenumber": "2",
+        "addr:place": "Sumbersari",
+        "addr:postcode": "65145",
+        "amenity": "college",
+        "education": "college",
+        "email": "itn@itn.ac.id",
+        "fax": "+62 341 553015",
+        "name": "Institut Teknologi Nasional Malang (Kampus I)",
+        "phone": "+62 341 551431",
+        "website": "http://www.itn.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6123805,
+          -7.9581405
+        ]
+      },
+      "id": "way/395792035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395824786",
+        "amenity": "university",
+        "building": "yes",
+        "name": "FIA D",
+        "operator": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6136872,
+          -7.9496246
+        ]
+      },
+      "id": "way/395824786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395862497",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Fakultas Peternakan 4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6110107,
+          -7.9523912
+        ]
+      },
+      "id": "way/395862497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395873086",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Fakultas Ekonomi UIN Maulana Malik Ibrahim Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6070352,
+          -7.951488
+        ]
+      },
+      "id": "way/395873086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403417868",
+        "amenity": "college",
+        "education": "college",
+        "name": "STT Stikma Internasional",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6401928,
+          -7.9633081
+        ]
+      },
+      "id": "way/403417868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410160540",
+        "access:roof": "no",
+        "addr:full": "Jl. Tata Surya",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "building:walls": "brick",
+        "capacity": "50",
+        "name": "Pasca Sarjana UNISMA",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6071228,
+          -7.9357347
+        ]
+      },
+      "id": "way/410160540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438091372",
+        "amenity": "university",
+        "building": "yes",
+        "name": "FIA C",
+        "operator": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6138499,
+          -7.9497657
+        ]
+      },
+      "id": "way/438091372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530920786",
+        "amenity": "university",
+        "denomination": "roman_catholic",
+        "name": "Universitas Katolik Widya Karya",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6177574,
+          -7.9684257
+        ]
+      },
+      "id": "way/530920786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530920829",
+        "amenity": "college",
+        "name": "Seminari Alkitab Asia Tenggara",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5968865,
+          -7.9564806
+        ]
+      },
+      "id": "way/530920829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546353786",
+        "amenity": "university",
+        "contact:instagram": "unikamaofficial",
+        "education": "university",
+        "name": "Universitas Kanjuruhan Malang",
+        "website": "https://unikama.ac.id/",
+        "wikidata": "Q12523359",
+        "wikipedia": "id:Universitas Kanjuruhan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6201313,
+          -8.0068858
+        ]
+      },
+      "id": "way/546353786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564205232",
+        "amenity": "college",
+        "education": "college",
+        "name": "Sekolah Tinggi Bahasa Asing Malang",
+        "short_name": "Stiba Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66886,
+          -7.9719974
+        ]
+      },
+      "id": "way/564205232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647933785",
+        "addr:full": "Jalan Besar Ijen No.77C, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65119",
+        "addr:housenumber": "77C",
+        "amenity": "college",
+        "name": "Politeknik Kesehatan Kemenkes Malang",
+        "short_name": "Poltekkes Malang",
+        "website": "http://www.poltekkes-malang.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6227162,
+          -7.9653563
+        ]
+      },
+      "id": "way/647933785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/928228540",
+        "amenity": "university",
+        "name": "Universitas Muhammadiyah Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5978592,
+          -7.9209513
+        ]
+      },
+      "id": "way/928228540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596423",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Pondok Pesantren Mahasiswa Al-Kautsar",
+        "religion": "muslim",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6140623,
+          -7.9669335
+        ]
+      },
+      "id": "way/947596423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/948487438",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Fakultas Teknik Universitas Merdeka Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6088762,
+          -7.9725105
+        ]
+      },
+      "id": "way/948487438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103037476",
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitas Negeri Malang Kampus II",
+        "website": "https://um.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6685352,
+          -7.979189
+        ]
+      },
+      "id": "way/1103037476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1108477173",
+        "amenity": "university",
+        "education": "university",
+        "name": "STIKES Soepraoen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6211914,
+          -7.9907349
+        ]
+      },
+      "id": "way/1108477173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1177855450",
+        "addr:housenumber": "332",
+        "addr:street": "Jalan Bandulan Barat",
+        "amenity": "university",
+        "denomination": "protestant",
+        "name": "Sekolah Tinggi Alkitab Nusantara",
+        "religion": "christian",
+        "short_name": "STAN",
+        "website": "https://nbs.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60007,
+          -7.9796593
+        ]
+      },
+      "id": "way/1177855450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1180789781",
+        "alt_name": "Seminari Tinggi Kongregasi Misi St. Vinsensius",
+        "amenity": "college",
+        "contact:instagram": "seminari_cmindo",
+        "name": "Seminari Tinggi Kongregasi Misi Santo Vinsensius",
+        "operator": "Kongregasi Misi (CM)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6147839,
+          -7.9808204
+        ]
+      },
+      "id": "way/1180789781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184939885",
+        "amenity": "university",
+        "education": "university",
+        "name": "Kampus 3 Institut Teknologi Sains dan Kesehatan (ITSK) dr.Soepraoen",
+        "name:en": "Institut of Technology Science and Health dr.Soepraoen 3rd Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6329398,
+          -7.9788791
+        ]
+      },
+      "id": "way/1184939885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307658899",
+        "amenity": "college",
+        "education": "college",
+        "landuse": "education",
+        "name": "Politeknik Pembangunan Pertanian Malang",
+        "short_name": "Polbangtan",
+        "website": "https://polbangtanmalang.ac.id/",
+        "wikidata": "Q25457414",
+        "wikipedia": "id:Politeknik Pembangunan Pertanian Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6176162,
+          -7.982453
+        ]
+      },
+      "id": "way/1307658899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1315116143",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Teologi Yestoya",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5972073,
+          -7.9554192
+        ]
+      },
+      "id": "way/1315116143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319011504",
+        "amenity": "college",
+        "education": "college",
+        "name": "STIE Malangkuçeçwara",
+        "not:name": "STIE Malangkucecwara",
+        "website": "https://web.stie-mce.ac.id/",
+        "wikidata": "Q12511297",
+        "wikipedia": "id:STIE Malangkucecwara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6368679,
+          -7.9420057
+        ]
+      },
+      "id": "way/1319011504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1324194860",
+        "amenity": "college",
+        "denomination": "roman_catholic",
+        "education": "college",
+        "name": "Sekolah Tinggi Filsafat Teologi Widya Sasana",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6080636,
+          -7.9679787
+        ]
+      },
+      "id": "way/1324194860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1324194861",
+        "amenity": "college",
+        "denomination": "roman_catholic",
+        "education": "college",
+        "name": "Seminari Tinggi SVD Surya Wacana",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.607005,
+          -7.967683
+        ]
+      },
+      "id": "way/1324194861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1359806464",
+        "amenity": "university",
+        "name": "Universitas Muhammadiyah Malang Kampus 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6141451,
+          -7.957458
+        ]
+      },
+      "id": "way/1359806464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360558257",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Teologi Salem",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6037698,
+          -7.9637873
+        ]
+      },
+      "id": "way/1360558257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1360813045",
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitas Islam Malang",
+        "religion": "muslim",
+        "short_name": "Unisma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6071667,
+          -7.9364468
+        ]
+      },
+      "id": "way/1360813045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1361392772",
+        "amenity": "college",
+        "denomination": "roman_catholic",
+        "education": "college",
+        "fixme": "inaccurate boundary",
+        "name": "Seminari Tinggi Interdiosesan San Giovanni XXIII Malang",
+        "religion": "christian",
+        "wikidata": "Q56393491",
+        "wikipedia": "id:Seminari Tinggi Interdiosesan San Giovanni XXIII Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6051068,
+          -7.9580102
+        ]
+      },
+      "id": "way/1361392772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418584485",
+        "alt_name": "Akademi Keperawatan Panti Waluya Malang",
+        "amenity": "college",
+        "education": "college",
+        "name": "Akademi Keperawatan Panti Waluya",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62543,
+          -7.9852498
+        ]
+      },
+      "id": "way/1418584485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418869798",
+        "alt_name": "UWG Malang",
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitas Widya Gama Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6359171,
+          -7.9396599
+        ]
+      },
+      "id": "way/1418869798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419173766",
+        "amenity": "university",
+        "name": "Institut Teknologi Nasional Malang - Kampus 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6346559,
+          -7.9172003
+        ]
+      },
+      "id": "way/1419173766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420768499",
+        "addr:housenumber": "8B",
+        "addr:street": "Jalan Akordion Selatan",
+        "amenity": "college",
+        "name": "Stikes Maharani",
+        "operator:type": "private",
+        "website": "https://stikesmaharani.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6136859,
+          -7.9344504
+        ]
+      },
+      "id": "way/1420768499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1427690831",
+        "amenity": "college",
+        "education": "college",
+        "name": "Sekolah Tinggi Ilmu Administrasi Malang",
+        "short_name": "STIA Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6035354,
+          -7.9319966
+        ]
+      },
+      "id": "way/1427690831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428962393",
+        "amenity": "university",
+        "name": "Universitas Tribhuwana Tunggadewi",
+        "name:en": "University of Tribhuwana Tunggadewi",
+        "short_name": "Unitri",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6002783,
+          -7.9326328
+        ]
+      },
+      "id": "way/1428962393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428962399",
+        "amenity": "university",
+        "name": "Universitas Tribhuwana Tunggadewi - Science Techno Park",
+        "short_name": "Unitri",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5984108,
+          -7.9307617
+        ]
+      },
+      "id": "way/1428962399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1429253934",
+        "alt_name": "Akademi Kebidanan Wira Husada Nusantara",
+        "amenity": "college",
+        "contact:facebook": "poltekkeswhn",
+        "contact:instagram": "poltekkes.whn",
+        "contact:tiktok": "poltekkeswhnmlg",
+        "contact:youtube": "poltekkeswhn4501",
+        "name": "Politeknik Kesehatan Wira Husada Nusantara",
+        "short_name": "Poltekkes WHN",
+        "short_name:en": "WHN Academy",
+        "website": "http://whn.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6012635,
+          -7.9341755
+        ]
+      },
+      "id": "way/1429253934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431252495",
+        "alt_name": "Sekolah Tinggi Ilmu Ekonomi Indocakti",
+        "amenity": "college",
+        "contact:instagram": "indocakti_official",
+        "name": "STIE Indoçakti",
+        "official_name": "Sekolah Tinggi Ilmu Ekonomi Indoçakti",
+        "website": "https://indocakti.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6489376,
+          -7.9374781
+        ]
+      },
+      "id": "way/1431252495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460000704",
+        "amenity": "college",
+        "denomination": "roman_catholic",
+        "education": "college",
+        "name": "Sekolah Tinggi Pastoral",
+        "operator": "Yayasan Institut Pastoral Indonesia",
+        "operator:type": "religious",
+        "religion": "christian",
+        "short_name": "STP IPI Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.632345,
+          -7.9542171
+        ]
+      },
+      "id": "way/1460000704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460540277",
+        "amenity": "college",
+        "education": "college",
+        "name": "IKIP Budi Utomo Malang Kampus C",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.641542,
+          -7.9564017
+        ]
+      },
+      "id": "way/1460540277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1463940601",
+        "addr:city": "Malang",
+        "addr:district": "Kedungkandang",
+        "addr:housenumber": "9",
+        "addr:postcode": "65135",
+        "addr:province": "Jawa Timur",
+        "addr:street": "Jalan Mayor Jenderal Sungkono",
+        "addr:subdistrict": "Bumiayu",
+        "amenity": "university",
+        "education": "university",
+        "email": "malang@ecampus.ut.ac.id",
+        "name": "Universitas Terbuka Malang",
+        "website": "https://malang.ut.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6419645,
+          -8.0280115
+        ]
+      },
+      "id": "way/1463940601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1464399409",
+        "amenity": "university",
+        "education": "university",
+        "name": "Universitas Wisnuwardhana",
+        "operator": "Yayasan Pendidikan dan Sosial Wisnuwardhana Malang",
+        "operator:type": "private",
+        "website": "https://www.wisnuwardhana.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6697865,
+          -7.9707824
+        ]
+      },
+      "id": "way/1464399409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465021149",
+        "addr:city": "Malang",
+        "addr:district": "Lowokwaru",
+        "addr:housenumber": "1A",
+        "addr:postcode": "65113",
+        "addr:province": "Jawa Timur",
+        "addr:street": "Jalan Rembuksari",
+        "addr:subdistrict": "Mojolangu",
+        "amenity": "college",
+        "contact:instagram": "institut_asia",
+        "contact:tiktok": "asianesyen",
+        "contact:whatsapp": "6287881444088",
+        "contact:youtube": "AsiaNesyen",
+        "education": "college",
+        "email": "asia@asia.ac.id",
+        "name": "Institut Teknologi dan Bisnis Asia",
+        "website": "https://asia.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6266051,
+          -7.9379561
+        ]
+      },
+      "id": "way/1465021149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1471783791",
+        "addr:housenumber": "5",
+        "addr:street": "Jalan Terusan Rajabasa",
+        "amenity": "college",
+        "education": "college",
+        "name": "Aditya Wacana",
+        "operator": "SVD",
+        "operator:type": "religious",
+        "website": "https://adityawacana.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6071107,
+          -7.9687104
+        ]
+      },
+      "id": "way/1471783791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1472692350",
+        "amenity": "college",
+        "denomination": "roman_catholic",
+        "education": "college",
+        "name": "Seminari Tinggi CM",
+        "religion": "christian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6031644,
+          -7.9599408
+        ]
+      },
+      "id": "way/1472692350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293531985",
+        "amenity": "college",
+        "name": "Politeknik Kota Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6488812,
+          -8.0338325
+        ]
+      },
+      "id": "node/7293531985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7304757786",
+        "amenity": "college",
+        "name:en": "Sekolah Tinggi Teknik Atlas Nusantara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.661116,
+          -7.9326078
+        ]
+      },
+      "id": "node/7304757786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10656394356",
+        "addr:city": "Malang",
+        "addr:housenumber": "637",
+        "addr:postcode": "65116",
+        "addr:street": "Jalan Bareng Tenes 4A",
+        "amenity": "college",
+        "internet_access": "no",
+        "name": "TK ABA 5 MALANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6226536,
+          -7.9786441
+        ]
+      },
+      "id": "node/10656394356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10980520554",
+        "amenity": "university",
+        "name": "Gerbang Masuk UNIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6028794,
+          -7.9404463
+        ]
+      },
+      "id": "node/10980520554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12160369983",
+        "amenity": "university",
+        "education": "university",
+        "name": "Sekolah Tinggi Pastoral IPI Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6123243,
+          -7.9722432
+        ]
+      },
+      "id": "node/12160369983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12254374527",
+        "amenity": "university",
+        "name": "Balewiyata Majelis Agung GKJW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6208017,
+          -7.9875986
+        ]
+      },
+      "id": "node/12254374527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12615763893",
+        "amenity": "university",
+        "name": "IKIP Budi Utomo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6265645,
+          -7.9777259
+        ]
+      },
+      "id": "node/12615763893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13363114718",
+        "amenity": "college",
+        "education": "college",
+        "name": "Poltekkes Putra Indonesia Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6400463,
+          -7.9602259
+        ]
+      },
+      "id": "node/13363114718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13395301420",
+        "addr:housenumber": "17",
+        "addr:street": "Jalan Tumenggung Suryo",
+        "amenity": "college",
+        "education": "college",
+        "name": "STIE Jaya Negara Taman Siswa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6414018,
+          -7.9615331
+        ]
+      },
+      "id": "node/13395301420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13401747428",
+        "amenity": "college",
+        "education": "college",
+        "name": "STIE Kertanegara",
+        "operator": "Yayasan Pengenbangan Ilmu dan Karya Malang",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6309123,
+          -7.9455791
+        ]
+      },
+      "id": "node/13401747428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13401747429",
+        "amenity": "college",
+        "education": "college",
+        "name": "STIP Malang",
+        "operator": "Yayasan Pengenbangan Ilmu dan Karya Malang",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6311104,
+          -7.9458899
+        ]
+      },
+      "id": "node/13401747429"
+    }
+  ]
+}
