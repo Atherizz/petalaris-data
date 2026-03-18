@@ -1,0 +1,2104 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T14:44:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149724749",
+        "leisure": "park",
+        "name": "Alun-Alun Bundar Malang",
+        "wikipedia": "id:Alun-Alun Bundar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6340383,
+          -7.9771497
+        ]
+      },
+      "id": "way/149724749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195460627",
+        "leisure": "park",
+        "name": "Taman Krida Budaya Jawa Timur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6225691,
+          -7.9427219
+        ]
+      },
+      "id": "way/195460627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244161097",
+        "leisure": "park",
+        "name": "Taman Slamet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6222467,
+          -7.9741782
+        ]
+      },
+      "id": "way/244161097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244161098",
+        "addr:street": "Jalan Malabar",
+        "leisure": "park",
+        "name": "Hutan Kota Malabar",
+        "operator:type": "government",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.626775,
+          -7.9686726
+        ]
+      },
+      "id": "way/244161098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271994191",
+        "leisure": "park",
+        "loc_name": "Alun-Alun Malang",
+        "name": "Alun-Alun Merdeka",
+        "operator": "Pemerintah Kota Malang",
+        "operator:type": "government",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6308154,
+          -7.9826205
+        ]
+      },
+      "id": "way/271994191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295948065",
+        "leisure": "park",
+        "name": "Lapangan Rampal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6401699,
+          -7.9735714
+        ]
+      },
+      "id": "way/295948065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295948066",
+        "leisure": "park",
+        "name": "Panggung Terbuka Rampal",
+        "name:en": "Rampal Open Stage",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6403217,
+          -7.9723156
+        ]
+      },
+      "id": "way/295948066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300803065",
+        "addr:city": "Malang",
+        "addr:housenumber": "9",
+        "addr:postcode": "65141",
+        "addr:street": "Jl. Soekarno-Hatta",
+        "leisure": "park",
+        "name": "Polinema Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6167406,
+          -7.9472309
+        ]
+      },
+      "id": "way/300803065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310089271",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6868955,
+          -7.9822733
+        ]
+      },
+      "id": "way/310089271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310172057",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6869929,
+          -7.9819214
+        ]
+      },
+      "id": "way/310172057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310453917",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6875342,
+          -7.9818458
+        ]
+      },
+      "id": "way/310453917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317134991",
+        "leisure": "park",
+        "name": "Taman Trunojoyo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6365355,
+          -7.9766938
+        ]
+      },
+      "id": "way/317134991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388813609",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6275009,
+          -7.9910954
+        ]
+      },
+      "id": "way/388813609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395819912",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6150316,
+          -7.954516
+        ]
+      },
+      "id": "way/395819912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403196141",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6260684,
+          -7.9660009
+        ]
+      },
+      "id": "way/403196141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403214201",
+        "leisure": "park",
+        "name": "Hutan MIPA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6116953,
+          -7.9520816
+        ]
+      },
+      "id": "way/403214201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410384040",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6166748,
+          -7.9476525
+        ]
+      },
+      "id": "way/410384040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410384041",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6366617,
+          -7.9782071
+        ]
+      },
+      "id": "way/410384041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410384042",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.635563,
+          -7.9774125
+        ]
+      },
+      "id": "way/410384042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428365941",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6304282,
+          -7.9815531
+        ]
+      },
+      "id": "way/428365941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428365942",
+        "leisure": "park",
+        "name": "Taman Wilhelmina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6305572,
+          -7.9803712
+        ]
+      },
+      "id": "way/428365942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428432016",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6281646,
+          -7.9813907
+        ]
+      },
+      "id": "way/428432016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/493852851",
+        "addr:city": "Malang",
+        "addr:postcode": "65144",
+        "addr:street": "Jalan Mertojoyo Selatan",
+        "leisure": "park",
+        "name": "Taman Merjosari",
+        "operator": "Pemerintah Kota Malang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.603118,
+          -7.9451443
+        ]
+      },
+      "id": "way/493852851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495852134",
+        "leisure": "park",
+        "name": "Taman Panglima Sudirman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6384798,
+          -7.9671962
+        ]
+      },
+      "id": "way/495852134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495852139",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.638306,
+          -7.9669216
+        ]
+      },
+      "id": "way/495852139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495852140",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6388084,
+          -7.9672472
+        ]
+      },
+      "id": "way/495852140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495852141",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6383067,
+          -7.9675174
+        ]
+      },
+      "id": "way/495852141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530920773",
+        "addr:full": "Jl. Cerme, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65119",
+        "alt_name": "Taman Terompet",
+        "leisure": "park",
+        "name": "Taman Tjerme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6252202,
+          -7.9704349
+        ]
+      },
+      "id": "way/530920773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530920818",
+        "leisure": "park",
+        "name": "Atamimi Huis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5947953,
+          -7.9557851
+        ]
+      },
+      "id": "way/530920818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/583341294",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6319761,
+          -7.9676687
+        ]
+      },
+      "id": "way/583341294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635537030",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6064889,
+          -7.9594557
+        ]
+      },
+      "id": "way/635537030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635537474",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6096822,
+          -7.9612382
+        ]
+      },
+      "id": "way/635537474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635537652",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6076743,
+          -7.9561259
+        ]
+      },
+      "id": "way/635537652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647574450",
+        "addr:full": "Jl. KH Hasyim, RT 01, 04, 05, 08 RW 03, Kel Kedung kandang",
+        "leisure": "park",
+        "name": "Taman Wisata Rolak Indah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6543117,
+          -7.9898984
+        ]
+      },
+      "id": "way/647574450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668205397",
+        "leisure": "park",
+        "name": "Taman Gotong Royong",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6472991,
+          -7.947971
+        ]
+      },
+      "id": "way/668205397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691852474",
+        "leisure": "park",
+        "loc_name": "Taman Merbabu",
+        "name": "Merbabu Family Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6258686,
+          -7.9673693
+        ]
+      },
+      "id": "way/691852474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/817052605",
+        "addr:city": "Malang",
+        "addr:housenumber": "Perumahan Graha Laksana Tidar",
+        "addr:postcode": "65151",
+        "leisure": "park",
+        "name": "Taman GLT (Graha Laksana Tidar)",
+        "operator": "Amin's",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5835179,
+          -7.9525252
+        ]
+      },
+      "id": "way/817052605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/857682720",
+        "leisure": "park",
+        "name": "Taman UM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6163143,
+          -7.9627882
+        ]
+      },
+      "id": "way/857682720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596409",
+        "leisure": "park",
+        "name": "Taman Simpang Balapan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6251041,
+          -7.9656642
+        ]
+      },
+      "id": "way/947596409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596411",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6205029,
+          -7.9690648
+        ]
+      },
+      "id": "way/947596411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596496",
+        "access": "yes",
+        "addr:postcode": "65146",
+        "addr:street": "Jalan Puncak Trikora",
+        "description": "Open Space Area",
+        "email": "tamanliterasitidar07@gmail.com",
+        "leisure": "park",
+        "name": "Taman Literasi Tidar",
+        "opening_hours": "sunrise-sunset",
+        "operator": "TLT",
+        "operator:type": "community",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6015317,
+          -7.9626558
+        ]
+      },
+      "id": "way/947596496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596518",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5882949,
+          -7.9582255
+        ]
+      },
+      "id": "way/947596518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947596548",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.586364,
+          -7.9575112
+        ]
+      },
+      "id": "way/947596548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947875158",
+        "leisure": "park",
+        "name": "Plaza Merjosari",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6034643,
+          -7.9436058
+        ]
+      },
+      "id": "way/947875158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/948230544",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6213914,
+          -7.9695621
+        ]
+      },
+      "id": "way/948230544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/965290645",
+        "addr:city": "RT 02 RW 11, Kel. Jatimulyo Kec. Lowokwaru Kota Malang",
+        "addr:postcode": "65141",
+        "addr:street": "Perum Saxofone Land",
+        "leisure": "park",
+        "name": "Smoking Area Saxofone Land",
+        "opening_hours": "24/7",
+        "opening_hours:covid19": "restricted",
+        "operator": "Satpam",
+        "smoking": "separated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6098997,
+          -7.9302462
+        ]
+      },
+      "id": "way/965290645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/991037415",
+        "leisure": "park",
+        "name": "Alun-Alun Krangploso",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5946784,
+          -7.8927244
+        ]
+      },
+      "id": "way/991037415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1064326152",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6477858,
+          -7.9805477
+        ]
+      },
+      "id": "way/1064326152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126435824",
+        "addr:street": "Jalan Zentana",
+        "leisure": "park",
+        "name": "Jogging Track Ampeldento",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6076666,
+          -7.9149129
+        ]
+      },
+      "id": "way/1126435824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181708484",
+        "leisure": "park",
+        "name": "Taman & Pedestrian Dieng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6139823,
+          -7.9733296
+        ]
+      },
+      "id": "way/1181708484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181708485",
+        "leisure": "park",
+        "name": "Taman & Pedestrian Dieng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6151742,
+          -7.9733838
+        ]
+      },
+      "id": "way/1181708485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181708512",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.612464,
+          -7.9732514
+        ]
+      },
+      "id": "way/1181708512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181710255",
+        "leisure": "park",
+        "name": "Taman Gayam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6160431,
+          -7.974987
+        ]
+      },
+      "id": "way/1181710255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181710256",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6212395,
+          -7.9641872
+        ]
+      },
+      "id": "way/1181710256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181710257",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6200079,
+          -7.9657367
+        ]
+      },
+      "id": "way/1181710257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1183667674",
+        "leisure": "playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6137109,
+          -7.9955164
+        ]
+      },
+      "id": "way/1183667674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1183694713",
+        "access": "customers",
+        "leisure": "playground",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6097406,
+          -7.9821778
+        ]
+      },
+      "id": "way/1183694713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184852352",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6232638,
+          -7.968546
+        ]
+      },
+      "id": "way/1184852352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184852353",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6232438,
+          -7.9683712
+        ]
+      },
+      "id": "way/1184852353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184939895",
+        "leisure": "playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6306395,
+          -7.9831958
+        ]
+      },
+      "id": "way/1184939895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188801531",
+        "addr:city": "Kabupaten Malang",
+        "addr:housenumber": "Taman Panorama Garden",
+        "addr:postcode": "65158",
+        "addr:street": "Perumahan Panorama Garden",
+        "leisure": "park",
+        "name": "Taman Panorama Garden",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5778657,
+          -8.0013694
+        ]
+      },
+      "id": "way/1188801531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188801532",
+        "addr:city": "Kabupaten Malang",
+        "addr:postcode": "65158",
+        "addr:street": "Perumahan Panorama Garden",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5792539,
+          -8.0022874
+        ]
+      },
+      "id": "way/1188801532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188801533",
+        "addr:city": "Kabupaten Malang",
+        "addr:postcode": "65158",
+        "addr:street": "Perumahan Panorama Garden",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5789689,
+          -8.0023572
+        ]
+      },
+      "id": "way/1188801533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188801534",
+        "addr:city": "Kabupaten Malang",
+        "addr:postcode": "65158",
+        "addr:street": "Perumahan Panorama Garden",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5791947,
+          -8.0021463
+        ]
+      },
+      "id": "way/1188801534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196169784",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.631616,
+          -7.9425521
+        ]
+      },
+      "id": "way/1196169784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1284863860",
+        "leisure": "park",
+        "name": "Hutan Kampus UMM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6003414,
+          -7.9236303
+        ]
+      },
+      "id": "way/1284863860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307188055",
+        "leisure": "playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6195393,
+          -7.9732212
+        ]
+      },
+      "id": "way/1307188055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308024908",
+        "leisure": "park",
+        "name": "Taman Bermain Taman Agung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6092772,
+          -7.9707657
+        ]
+      },
+      "id": "way/1308024908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308094371",
+        "access": "yes",
+        "leisure": "park",
+        "name": "Taman Bunga Merjosari",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.604244,
+          -7.9456484
+        ]
+      },
+      "id": "way/1308094371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308278255",
+        "area": "yes",
+        "leisure": "park",
+        "name": "Alun-alun UM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6192554,
+          -7.9633561
+        ]
+      },
+      "id": "way/1308278255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308282574",
+        "leisure": "park",
+        "name": "Taman Rekreasi Kota (Tarekot) Malang",
+        "name:en": "Tarekot Malang City Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6334226,
+          -7.9791063
+        ]
+      },
+      "id": "way/1308282574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308453329",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6662144,
+          -7.9652396
+        ]
+      },
+      "id": "way/1308453329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1309059853",
+        "leisure": "park",
+        "name": "Taman Raya Langsep",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6124134,
+          -7.9762323
+        ]
+      },
+      "id": "way/1309059853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313320303",
+        "leisure": "park",
+        "name": "Taman Wisata Lembah Dieng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5967791,
+          -7.9649104
+        ]
+      },
+      "id": "way/1313320303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313320311",
+        "leisure": "park",
+        "name": "Taman Bermain & Olahraga Villa Puncak Tidar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5924859,
+          -7.9623634
+        ]
+      },
+      "id": "way/1313320311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313320317",
+        "leisure": "playground",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5922582,
+          -7.9623458
+        ]
+      },
+      "id": "way/1313320317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313416747",
+        "leisure": "park",
+        "name": "Atamimi Palace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5934886,
+          -7.9556655
+        ]
+      },
+      "id": "way/1313416747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313801960",
+        "leisure": "park",
+        "name": "Taman Janssen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6119792,
+          -7.9721727
+        ]
+      },
+      "id": "way/1313801960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316923690",
+        "leisure": "park",
+        "name": "taman medeka ETIGA",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5829897,
+          -7.9475954
+        ]
+      },
+      "id": "way/1316923690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1316927333",
+        "leisure": "park",
+        "name": "Taman depan E2",
+        "source": "local knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5817819,
+          -7.946245
+        ]
+      },
+      "id": "way/1316927333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317002022",
+        "leisure": "park",
+        "name": "Taman E2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5829362,
+          -7.9460602
+        ]
+      },
+      "id": "way/1317002022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317023320",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5769464,
+          -7.9342854
+        ]
+      },
+      "id": "way/1317023320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317325436",
+        "leisure": "park",
+        "name": "Taman Blok B Villa Bukit Tidar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.584492,
+          -7.9435352
+        ]
+      },
+      "id": "way/1317325436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317325437",
+        "leisure": "park",
+        "name": "Taman Boulevard",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5853785,
+          -7.9438449
+        ]
+      },
+      "id": "way/1317325437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317325439",
+        "leisure": "park",
+        "name": "Taman Blok B1 Villa Bukit Tidar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5830376,
+          -7.9429722
+        ]
+      },
+      "id": "way/1317325439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317537011",
+        "leisure": "park",
+        "name": "Fasum Astera",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5820267,
+          -7.9488835
+        ]
+      },
+      "id": "way/1317537011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317882427",
+        "leisure": "park",
+        "name": "Taman Edukasi Gerabah Green Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6170727,
+          -7.9551048
+        ]
+      },
+      "id": "way/1317882427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318481189",
+        "leisure": "park",
+        "name": "Taman Amprong",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6419645,
+          -7.9638407
+        ]
+      },
+      "id": "way/1318481189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318597638",
+        "leisure": "park",
+        "name": "Taman Halmahera",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6281858,
+          -7.9923419
+        ]
+      },
+      "id": "way/1318597638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318597643",
+        "leisure": "park",
+        "name": "Sungai Andalas Tengah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6259269,
+          -7.9931783
+        ]
+      },
+      "id": "way/1318597643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319011499",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6261176,
+          -7.9408205
+        ]
+      },
+      "id": "way/1319011499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1320332010",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5816772,
+          -7.9471858
+        ]
+      },
+      "id": "way/1320332010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1320332446",
+        "leisure": "park",
+        "name": "Taman depan etiga",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5820052,
+          -7.9471636
+        ]
+      },
+      "id": "way/1320332446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1328577260",
+        "access": "customers",
+        "building": "yes",
+        "contact:instagram": "malang.smartarena",
+        "fee": "yes",
+        "indoor": "yes",
+        "leisure": "playground",
+        "max_age": "99",
+        "min_age": "0",
+        "name": "Malang Smart Arena",
+        "operator": "Hawai Group",
+        "website": "https://home.hawaigroup.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6565981,
+          -7.9225554
+        ]
+      },
+      "id": "way/1328577260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1392647656",
+        "access": "yes",
+        "addr:city": "Kota Malang",
+        "addr:district": "Kedungkandang",
+        "addr:housename": "Children Playgroud",
+        "addr:postcode": "65136",
+        "addr:province": "Jawa TImur",
+        "addr:subdistrict": "Buring",
+        "addr:unit": "Springdale",
+        "leisure": "park",
+        "name": "Children Playgroud Cluster Spring Dale",
+        "opening_hours": "24/7",
+        "operator": "CitraGarden Malang",
+        "operator:type": "public",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6591273,
+          -8.0099294
+        ]
+      },
+      "id": "way/1392647656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418891256",
+        "leisure": "park",
+        "name": "Taman Kota Hijau",
+        "operator": "Pemerintah Kota Malang Dinas Lingkungan Hidup UPT Pengelolaan Taman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6172454,
+          -7.9286094
+        ]
+      },
+      "id": "way/1418891256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418972562",
+        "leisure": "park",
+        "name": "Taman Kebun Bibit Mojolangu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.628264,
+          -7.9331257
+        ]
+      },
+      "id": "way/1418972562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1419621345",
+        "leisure": "park",
+        "name": "Taman Teluk Grajakan - Pandanwangi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6540007,
+          -7.9427689
+        ]
+      },
+      "id": "way/1419621345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420120831",
+        "alt_name": "Taman Comal",
+        "leisure": "park",
+        "name": "Greenplace for Srikandi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6484091,
+          -7.9676707
+        ]
+      },
+      "id": "way/1420120831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420123856",
+        "leisure": "park",
+        "name": "Taman Sulfat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6499262,
+          -7.9618847
+        ]
+      },
+      "id": "way/1420123856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460540280",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6415408,
+          -7.9540616
+        ]
+      },
+      "id": "way/1460540280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460540281",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6412572,
+          -7.9548119
+        ]
+      },
+      "id": "way/1460540281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460540283",
+        "leisure": "park",
+        "name": "Taman Cisadea",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6430654,
+          -7.9553784
+        ]
+      },
+      "id": "way/1460540283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1461770744",
+        "leisure": "park",
+        "name": "Taman Pandanwangi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6640606,
+          -7.9500325
+        ]
+      },
+      "id": "way/1461770744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1462105913",
+        "leisure": "park",
+        "name": "Taman Kendedes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6508548,
+          -7.9260826
+        ]
+      },
+      "id": "way/1462105913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1465251552",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6483338,
+          -7.9657449
+        ]
+      },
+      "id": "way/1465251552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1471999025",
+        "leisure": "playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6054568,
+          -7.9736487
+        ]
+      },
+      "id": "way/1471999025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763151588",
+        "leisure": "park",
+        "name": "Taman Sulfat",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6500757,
+          -7.9604015
+        ]
+      },
+      "id": "node/6763151588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093173317",
+        "access": "yes",
+        "leisure": "playground",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.639355,
+          -7.9724544
+        ]
+      },
+      "id": "node/8093173317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10015566419",
+        "access": "yes",
+        "leisure": "playground",
+        "name": "Taman Cerdas Trunojoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6366316,
+          -7.9781972
+        ]
+      },
+      "id": "node/10015566419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10980693160",
+        "leisure": "park",
+        "name": "Taman Lalu Lintas Merjosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6026538,
+          -7.9453561
+        ]
+      },
+      "id": "node/10980693160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11273662984",
+        "leisure": "playground",
+        "name": "Taman Bermain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6561513,
+          -7.9352431
+        ]
+      },
+      "id": "node/11273662984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12113273122",
+        "leisure": "playground",
+        "name": "Taman Bermain Taman Agung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6093124,
+          -7.9707783
+        ]
+      },
+      "id": "node/12113273122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12116889546",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6259252,
+          -7.9677856
+        ]
+      },
+      "id": "node/12116889546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12122417896",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6123624,
+          -7.9766724
+        ]
+      },
+      "id": "node/12122417896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12141951065",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6200533,
+          -7.9767676
+        ]
+      },
+      "id": "node/12141951065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12156183220",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6012579,
+          -7.977114
+        ]
+      },
+      "id": "node/12156183220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12846799003",
+        "addr:city": "Malang",
+        "addr:country": "ID",
+        "amenity": "cafe",
+        "leisure": "playground",
+        "name": "Milkyland Cafe & Playground",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5844959,
+          -7.937976
+        ]
+      },
+      "id": "node/12846799003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049550174",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6483832,
+          -7.9675543
+        ]
+      },
+      "id": "node/13049550174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13158403083",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6282961,
+          -7.9323086
+        ]
+      },
+      "id": "node/13158403083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324050565",
+        "leisure": "park",
+        "name": "Taman Dempo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6209832,
+          -7.9693467
+        ]
+      },
+      "id": "node/13324050565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13512255114",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5990829,
+          -7.953257
+        ]
+      },
+      "id": "node/13512255114"
+    }
+  ]
+}
