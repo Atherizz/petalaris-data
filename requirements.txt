@@ -1,4 +1,14 @@
-    geopandas 
-    shapely 
-    pandas
-    ipykernel
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+jupyter
+ipykernel
+geopandas
+shapely
+pyproj
+pyogrio
+folium
+mapclassify
+requests
