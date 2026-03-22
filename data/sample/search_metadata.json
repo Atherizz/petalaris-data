@@ -1,0 +1,1637 @@
+{
+    "search_metadata": {
+        "id": "69bceaacbd1c204868b448ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/QqHm3KWzgB7dlbipehCydQ/69bceaacbd1c204868b448ac.json",
+        "created_at": "2026-03-20 06:35:24 UTC",
+        "processed_at": "2026-03-20 06:35:24 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Alun+Alun+Kota+Malang//?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/QqHm3KWzgB7dlbipehCydQ/69bceaacbd1c204868b448ac.html",
+        "prettify_html_file": "https://serpapi.com/searches/QqHm3KWzgB7dlbipehCydQ/69bceaacbd1c204868b448ac.prettify",
+        "total_time_taken": 1.06
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Alun Alun Kota Malang",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+        "query_displayed": "Alun Alun Kota Malang"
+    },
+    "place_results": {
+        "title": "Alun Alun Malang",
+        "place_id": "ChIJx2CsGxgo1i0RtBA4m_YOH-c",
+        "data_id": "0x2dd628181bac60c7:0xe71f0ef69b3810b4",
+        "data_cid": "16654046399368270004",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x2dd628181bac60c7%3A0xe71f0ef69b3810b4&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x2dd628181bac60c7%3A0xe71f0ef69b3810b4&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+            "latitude": -7.9826144999999995,
+            "longitude": 112.63081129999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx2CsGxgo1i0RtBA4m_YOH-c",
+        "provider_id": "/g/1hm38k9qm",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerwVok5hpRJE1kJnEZCcRfXmnKmqi1rfYpBg0ZWvro4i-SSlkZrbw7uoZYkGG7y7L3FFtNuA33Kz-Hy3d8kbnahgBRSPlg6h_s6mGWP94YIMIyxJmv9uoulkOK6gDPxtgT6np0V=w114-h86-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/QMHUxXicBcFZcoIwGADgE0VkgkE70wfcUOjCQAeFF0cpJk6WP80i0vt5iN6m3_f3ZM5p-xIEguEJBaCi97Y3HSjXKzfpQAZUW9RZZINkVydDb4Ya-IzpMtuEPFObdtWV16NUufy5heba6CWdtoe7geiGqkrw1lyG2EPb8DSNx_gNb7fuwycY579oN-LvOb-oM6PLsioEJexkiUwPxSJq9u_78ZHJ-8KDF_wzJ3RdPBz9IkpP69chDCPE5gRxpOAfZTRF_A",
+        "rating_summary": [
+            {
+                "stars": 1,
+                "amount": 1159
+            },
+            {
+                "stars": 2,
+                "amount": 822
+            },
+            {
+                "stars": 3,
+                "amount": 4428
+            },
+            {
+                "stars": 4,
+                "amount": 14156
+            },
+            {
+                "stars": 5,
+                "amount": 46415
+            }
+        ],
+        "rating": 4.6,
+        "reviews": 66980,
+        "type": [
+            "City park",
+            "Tourist attraction"
+        ],
+        "type_ids": [
+            "city_park",
+            "tourist_attraction"
+        ],
+        "extensions": [
+            {
+                "service_options": [
+                    "Onsite services"
+                ]
+            },
+            {
+                "highlights": [
+                    "Picnics"
+                ]
+            },
+            {
+                "accessibility": [
+                    "Wheelchair accessible entrance",
+                    "Wheelchair accessible parking lot"
+                ]
+            },
+            {
+                "amenities": [
+                    "Cycling lanes",
+                    "Picnic tables",
+                    "Public restroom",
+                    "Skateboarding area",
+                    "Slides",
+                    "Swings"
+                ]
+            },
+            {
+                "children": [
+                    "Good for kids",
+                    "Playground"
+                ]
+            },
+            {
+                "parking": [
+                    "Free parking lot",
+                    "Paid parking lot",
+                    "Paid street parking"
+                ]
+            },
+            {
+                "pets": [
+                    "Dogs allowed"
+                ]
+            }
+        ],
+        "service_options": {
+            "onsite_services": true
+        },
+        "address": "Jl. Merdeka Selatan, Kiduldalem, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",
+        "open_state": "Open 24 hours",
+        "plus_code": "2J8J+X8 Kiduldalem, Malang City, East Java, Indonesia",
+        "admission": [
+            {
+                "title": "Alun Alun Malang",
+                "icon": "https://www.gstatic.com/ads-travel/ttd/official_admission_32x32.png",
+                "options": [
+                    {
+                        "title": "Alun Alun Burger",
+                        "link": "https://gofood.link/a/Jqxxfeb",
+                        "price": "$0.06",
+                        "extracted_price": 0.06,
+                        "official_site": true,
+                        "extensions": [
+                            "Free cancellation",
+                            "Instant confirmation"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "hours": [
+            {
+                "friday": "Open 24 hours"
+            },
+            {
+                "saturday": "Open 24 hours"
+            },
+            {
+                "sunday": "Open 24 hours"
+            },
+            {
+                "monday": "Open 24 hours"
+            },
+            {
+                "tuesday": "Open 24 hours"
+            },
+            {
+                "wednesday": "Open 24 hours"
+            },
+            {
+                "thursday": "Open 24 hours"
+            }
+        ],
+        "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x2dd628181bac60c7%3A0xe71f0ef69b3810b4&engine=google_maps_posts",
+        "posts": [
+            {
+                "media": "https://lh3.googleusercontent.com/geougc/AF1QipN7piJh4N6ErD4ZNHOQhI624LBzIxjvW1si4PJf=h400-no",
+                "post_link": "https://search.google.com/local/posts?q=Alun+Alun+Malang&ludocid=16654046399368270004&lpsid=CIHM0ogKEMT7ubKRs5KgSw&source=sh/x/loc/post&lsig=AB86z5UkfCq-v261G9y1bGywey6O",
+                "description": "Pesan Dengan Diskon Sekarang !\nGofood : https://gofood.link/a/Jqxxfeb\nShopeefood :\nhttps://shopee.co.id/universal-link/now-food/shop/21333626",
+                "date": "Dec 22, 2025"
+            }
+        ],
+        "images": [
+            {
+                "title": "All",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerwVok5hpRJE1kJnEZCcRfXmnKmqi1rfYpBg0ZWvro4i-SSlkZrbw7uoZYkGG7y7L3FFtNuA33Kz-Hy3d8kbnahgBRSPlg6h_s6mGWP94YIMIyxJmv9uoulkOK6gDPxtgT6np0V=w397-h298-k-no",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/VtLRe3icBcFbcoIwFADQFUXUKIgz_cAXCtYy4KDw41SKiZPHTfMQcYHuobvpOX9vaq0yc8_jFA8IAOGtM61uQNpW2kEDwiPKoMYg40XbMupa3ZXAplTlyXrEErmul01-OwuZit_7SN8qtSDD-vTQMLmjouCs1tcucFBXLI6DPtjjzcYeXIRx-kLbHv_M2FV-U7LIi4wTn16ML-JTFk6q3eeufybiETpwnH2lPlllT0uOvlTD8qPDYYDoOJwhhiT8A6wlRj8"
+            },
+            {
+                "title": "Latest",
+                "last_updated": "Today",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBP19hTQudjvlx11m2ViL8x2THpCud6ZdpefBpoZEkacJqpyzGWjkpYFnjC4TEYjSJDL7lWnxPx2Y1_FATigPoN-u5cdHze7kJJKZdlEtNMCWCdG5qrS59DFpvhBoxF2E3Cjhf4URiauI=w224-h298-k-no",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/WQ3n2XicBcHhcoIgAADgJyJP0pW72w8lzbnWueXy9M-uAxKRAAOK9Y57gL3Nvu_vl1mrzXMQCLZcDEoNgjpDr1hJS6VdYHUJBm0ANsAEaXlM73TO6jBhzYcj_CZ8GF7gcdytPWxKjRx56omm50yrPp9OuJr1z2Pb8kl3heQoavKOH6rNbiVa6WsPu_C7SJtxqNUeuBiT8kFXU1W99UTkdv-OWkS28Xw9xMmm0DeWKV_AfIk4O0dfn-PJvb7cIYwAg8kaTECqf34YR-o"
+            },
+            {
+                "title": "Videos",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowCde7-fev_v5nugpzyjmTWfTwJe9vQpMv7P_cnhXotBrTk_MzSztfl-TNvzosMP3ILWZyEhAFvRhK5DVVhPtEzmgtY1fa_iiQENE5fj5MJyj1Jjn7yUChih0A4iZZQOdU1v5ahw=w529-h298-k-no",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/O2EkRHicBcFRboIwGADgE1UE1zBMfGDKsrGhoIjKCzHY9gehJbS2oSf0Ct7G73s9QalBLh2ng8WMCcE68pBkrAVXhKtZLXqHDRLVEkkn_ClCQ4RZ34iPKNGVxvzBBju1fX6iuYlJoLMh0X5a1RzOQn2N-b1K7MEq2qF8q62QSbr4_T-VUwTht97DH94UBaQqsj1TF5deq6bJom2EaYuTeGrduOX-dFxDA_PwoynLbHc7uhpfwawM9gIEXvCJ7oiLN-2NSEU"
+            },
+            {
+                "title": "Park",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerVVzacH6pXHJpQ6xCpzJTy-i3LAXcQNbE_TaX6RWGuWbOwDhCTOmfEaVuOYwHmidWvniuKWjp0Brb5nPRqL4cYnxTk41pKH3zUXBKiT_K1ytGxp4pObsvYogHduqcNbWnHNBjJMg=w529-h298-k-no",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/VV_qxHicBcFRboIwGADgE1VUkEwTH8AZG1BQ01F4MrRiQaX9pa0gJ9wVdpt9399vbQzoleM8a3cilBLPyuqq40qaSpoJV60jQCOukXYCnAV91WXZWHLsQ44jOPnDBsaIfFDj7oOcnxK2vZAy9890ZylL--96Q9L2ti0zmxY9bpsrfcvGxvQO07BjC3k8v_YeL-RAHt4MYuyOP3kYN-QSzz5mN4AHKdPvQgl8tS-eMCpxEt6jg1j3i_kS1fPlF3ogqf4BQR9Hgg"
+            },
+            {
+                "title": "Skate Park Alun-Alun Malang",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqUew9dyvExdf_qXE1E7po4u-_pVuUOcc_xXHkJtBr16jU3ue010cebyv0_4bn1he5v1W-AuHdyVuOx6MZTGhFYaDWe8gcxdveRykdozlZtHXSInRMkw-4Ee23d5zJqxmIMXFZY7Q=w529-h298-k-no",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/Ulmq8nicBcFbjoIwFADQFVUoL2WS-cAIogkx6oDID9H2SiPYgm2huMLZwuxmzvn7ZUr18suyOuYuGiGaDrSENxFcAVcLIl5W00tEJJJWlBbRBEMOU0jnMTb0UQ9ljONlLzyN6r7Q-YGQ2pRpu1frNw6euavBxjaB-zzatXfnmIE_4guKdErnQh9MkFU_W5Zcb5sLrBpi6AinuaXi01UqLc87fsraCXkxOC71P_vBvHZZmVTX5fF78p0QMSdcoRZx8Q9CO0bl"
+            },
+            {
+                "title": "Street View & 360\u00b0",
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweouYiToKpQ-TN0v-ipJu5WCPFVYKtNktjSGOGdoiu3YQ-3XXTs0y1lv85N8FGelL7F1qrDfcawgA4uczG12Pn8MaI7FtxL1KWBx4jiWHV0XQfTmq5NRKx2ICikJZIFV1SXRhShO=w224-h298-k-no-pi-10-ya282-ro-0-fo100",
+                "serpapi_thumbnail": "https://serpapi.com/images/url/Jx1oYXicBcHLcoIwFADQL7qSBBhpZ7qgdkDEogjDozuGAokgF0ki2D_tov_Sc37_uFKTfDWMgZubDrEbGi2bucZRNaPa1HgzuklCLUEa7j5zlwZ1KVIMpxjSiDxATAdt57uzl5Whinp1TfyT_41Cm2UMZlGkkjzp8HDsyPH8ZjhuPXqfP9q6WjrX0vWPT9l5dD6rYOup9UjD_H21riLfZ6SI2_R2t6NLuLJgJ_rDV-BlNCkuPOGnt4UxCzh7caCHEWESQAk8K-YwmBEItEgJ-Qd6HkpB"
+            }
+        ],
+        "at_this_place": {
+            "type": [
+                {
+                    "title": "Parks",
+                    "places": 1
+                },
+                {
+                    "title": "Parking",
+                    "places": 1
+                },
+                {
+                    "title": "Other",
+                    "places": 1
+                }
+            ],
+            "places": [
+                {
+                    "position": 1,
+                    "title": "Skate Park Alun-Alun Malang",
+                    "data_id": "0x2dd62822a716cf91:0x8942d3d415548594",
+                    "data_cid": "9890700639503418772",
+                    "reviews_link": "https://serpapi.com/search.json?data_id=0x2dd62822a716cf91%3A0x8942d3d415548594&engine=google_maps_reviews&hl=en",
+                    "photos_link": "https://serpapi.com/search.json?data_id=0x2dd62822a716cf91%3A0x8942d3d415548594&engine=google_maps_photos&hl=en",
+                    "gps_coordinates": {
+                        "latitude": -7.98185,
+                        "longitude": 112.6309424
+                    },
+                    "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x2dd62822a716cf91%3A0x8942d3d415548594%218m2%213d-7.98185%214d112.6309424&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                    "rating": 4.3,
+                    "reviews": 90,
+                    "type": "Skatepark",
+                    "type_id": "skateboard_park",
+                    "address": "Jl. Merdeka Utara No.10, Kiduldalem, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",
+                    "open_state": "Open 24 hours",
+                    "hours": [
+                        {
+                            "friday": "Open 24 hours"
+                        },
+                        {
+                            "saturday": "Open 24 hours"
+                        },
+                        {
+                            "sunday": "Open 24 hours"
+                        },
+                        {
+                            "monday": "Open 24 hours"
+                        },
+                        {
+                            "tuesday": "Open 24 hours"
+                        },
+                        {
+                            "wednesday": "Open 24 hours"
+                        },
+                        {
+                            "thursday": "Open 24 hours"
+                        }
+                    ],
+                    "thumbanil": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerJiFyqsLrbO9JVYjV8v2JyjbkkSLx0tLtaFFTbzRvvg25h-MH5vgp3AhX5Q4uqW0yIwzHkxS5fQaM56xCHAHur1NWEFvK7KlhQjvqsQnVworZ-traFmDiPLdzwFPKdldKNdd9R4w=w86-h86-n-k-no",
+                    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerJiFyqsLrbO9JVYjV8v2JyjbkkSLx0tLtaFFTbzRvvg25h-MH5vgp3AhX5Q4uqW0yIwzHkxS5fQaM56xCHAHur1NWEFvK7KlhQjvqsQnVworZ-traFmDiPLdzwFPKdldKNdd9R4w=w86-h86-n-k-no"
+                },
+                {
+                    "position": 2,
+                    "title": "TK Masjid Agung Jami'",
+                    "data_id": "0x2dd629db3f74a9e5:0x1987aa5640a64e11",
+                    "data_cid": "1839626260232687121",
+                    "reviews_link": "https://serpapi.com/search.json?data_id=0x2dd629db3f74a9e5%3A0x1987aa5640a64e11&engine=google_maps_reviews&hl=en",
+                    "photos_link": "https://serpapi.com/search.json?data_id=0x2dd629db3f74a9e5%3A0x1987aa5640a64e11&engine=google_maps_photos&hl=en",
+                    "gps_coordinates": {
+                        "latitude": -7.9823346,
+                        "longitude": 112.6300595
+                    },
+                    "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x2dd629db3f74a9e5%3A0x1987aa5640a64e11%218m2%213d-7.9823346%214d112.6300595&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                    "rating": 4.9,
+                    "reviews": 12,
+                    "type": "Educational institution",
+                    "type_id": "educational_institution",
+                    "address": "2J9J+327, Jl. Merdeka Barat, Kauman, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",
+                    "open_state": "Closes soon \u00b7 2\u202fPM \u00b7 Opens 7\u202fAM Sat",
+                    "hours": [
+                        {
+                            "friday": "7\u202fAM\u20132\u202fPM"
+                        },
+                        {
+                            "saturday": "7\u202fAM\u20132\u202fPM"
+                        },
+                        {
+                            "sunday": "Closed"
+                        },
+                        {
+                            "monday": "7\u202fAM\u20132\u202fPM"
+                        },
+                        {
+                            "tuesday": "7\u202fAM\u20132\u202fPM"
+                        },
+                        {
+                            "wednesday": "7\u202fAM\u20132\u202fPM"
+                        },
+                        {
+                            "thursday": "7\u202fAM\u20132\u202fPM"
+                        }
+                    ],
+                    "thumbanil": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBMPOy1po0r89I8-HXT4NTMSbJpHIMFBQsTy8ErpHt10gnvte2vUeHJvxgtd36y_R15kGsi-dI8semvHDP0EAYmJibhSAgon5N3XhSNu8M6VAfOyeLTwBIfF6cMepRDV8oF52_=w86-h86-n-k-no",
+                    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBMPOy1po0r89I8-HXT4NTMSbJpHIMFBQsTy8ErpHt10gnvte2vUeHJvxgtd36y_R15kGsi-dI8semvHDP0EAYmJibhSAgon5N3XhSNu8M6VAfOyeLTwBIfF6cMepRDV8oF52_=w86-h86-n-k-no"
+                },
+                {
+                    "position": 3,
+                    "title": "Parkir Ruko Siswa",
+                    "data_id": "0x2dd629007e3259c1:0xad24a2bfe386ab07",
+                    "data_cid": "12476275812762823431",
+                    "reviews_link": "https://serpapi.com/search.json?data_id=0x2dd629007e3259c1%3A0xad24a2bfe386ab07&engine=google_maps_reviews&hl=en",
+                    "photos_link": "https://serpapi.com/search.json?data_id=0x2dd629007e3259c1%3A0xad24a2bfe386ab07&engine=google_maps_photos&hl=en",
+                    "gps_coordinates": {
+                        "latitude": -7.983357599999999,
+                        "longitude": 112.6314832
+                    },
+                    "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x2dd629007e3259c1%3A0xad24a2bfe386ab07%218m2%213d-7.983357599999999%214d112.6314832&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                    "rating": 2.5,
+                    "reviews": 4,
+                    "type": "Parking lot",
+                    "type_id": "parking_lot",
+                    "address": "Jl. Merdeka Timur No.2, RW.69, Kiduldalem, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",
+                    "open_state": "Open 24 hours",
+                    "hours": [
+                        {
+                            "friday": "Open 24 hours"
+                        },
+                        {
+                            "saturday": "Open 24 hours"
+                        },
+                        {
+                            "sunday": "Open 24 hours"
+                        },
+                        {
+                            "monday": "7\u202fAM\u201311\u202fPM"
+                        },
+                        {
+                            "tuesday": "7\u202fAM\u201311\u202fPM"
+                        },
+                        {
+                            "wednesday": "7\u202fAM\u201311\u202fPM"
+                        },
+                        {
+                            "thursday": "7\u202fAM\u201311\u202fPM"
+                        }
+                    ],
+                    "thumbanil": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6PAqt-QFgHTu0D3TyjVWVxJfbpfJal6KMecNp-gndfkVwhhV7xUcQO9qHeavwBA-8Uch6B28IJYUUL2afm2zkVt_J-Sy0Q-d2Rdl0-RWOUmmmSgc4rBmK8OOmowgwftFidpZH=w86-h86-n-k-no",
+                    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6PAqt-QFgHTu0D3TyjVWVxJfbpfJal6KMecNp-gndfkVwhhV7xUcQO9qHeavwBA-8Uch6B28IJYUUL2afm2zkVt_J-Sy0Q-d2Rdl0-RWOUmmmSgc4rBmK8OOmowgwftFidpZH=w86-h86-n-k-no"
+                }
+            ]
+        },
+        "user_reviews": {
+            "summary": [
+                {
+                    "snippet": "\"Public service area with comfortable place for kids and family\"",
+                    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXZkP1B-LeAPGDU5KBKjP-bXqZVfBABCZ3LoTj_jAokff-JwYOlLQ=s40-k-cc-rp-mo"
+                },
+                {
+                    "snippet": "\"Open space public facility, feed birds, fountain, children playground\"",
+                    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXl6wzku3B5CderHiKTyVBb6aA4L3Yv_Firpc1ob72yYzWGG-3mTA=s40-k-cc-rp-mo"
+                },
+                {
+                    "snippet": "\"Bakso, Sweet corn, ice cream, tofu with ketchup, and many more.\"",
+                    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW8xdzDxWYOPgBU6mITRCB3Vu3GpX8n-MLmRVhTjaM4gZhgDuQ=s40-k-cc-rp-mo"
+                }
+            ],
+            "topics": [
+                {
+                    "keyword": "mosque",
+                    "mentions": 1424,
+                    "id": "/m/04_xn"
+                },
+                {
+                    "keyword": "pigeons",
+                    "mentions": 736,
+                    "id": "/m/0h0rv"
+                },
+                {
+                    "keyword": "shopping center",
+                    "mentions": 370,
+                    "id": "/g/11dyhsd5s"
+                },
+                {
+                    "keyword": "places of worship",
+                    "mentions": 270,
+                    "id": "/m/02nvjx"
+                },
+                {
+                    "keyword": "lamps",
+                    "mentions": 249,
+                    "id": "/g/1q6jdznxw"
+                },
+                {
+                    "keyword": "comfortable",
+                    "mentions": 195,
+                    "id": "/g/11h_zbywvb"
+                },
+                {
+                    "keyword": "facility",
+                    "mentions": 185,
+                    "id": "/g/11fkdmr6gw"
+                },
+                {
+                    "keyword": "alun-alun",
+                    "mentions": 154,
+                    "id": "/m/04gll2x"
+                },
+                {
+                    "keyword": "breastfeeding",
+                    "mentions": 62,
+                    "id": "/m/0hb2r"
+                },
+                {
+                    "keyword": "arena",
+                    "mentions": 60,
+                    "id": "/m/018lrm"
+                }
+            ],
+            "most_relevant": [
+                {
+                    "username": "SIVAPRASAD BC",
+                    "rating": 5,
+                    "contributor_id": "103142381535338676911",
+                    "user_review_count": 164,
+                    "user_photo_count": 816,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV5crBAfSiAUcv-M9bXULhsxylYvLObpE7CGWDUafeOxNmTLMqF=s120-c-rp-mo-ba5-br100",
+                    "description": "**Alun-Alun Malang: The Heartbeat of the City**\n\nAlun-Alun Malang is the vibrant centerpiece of the city, offering a perfect blend of history, culture, and local life. The spacious square is beautifully maintained, with lush gardens, decorative fountains, and the iconic twin banyan trees at its center.\n\nAt night, the atmosphere becomes even more lively. The square is illuminated with colorful lights, creating a magical setting. Families, friends, and tourists gather here to enjoy street food, take photos, or simply relax on the benches. Nearby, you'll find Malang City Hall and the historic Great Mosque, adding to the area's charm.\n\nWhat makes Alun-Alun Malang special is its accessibility. It's clean, pedestrian-friendly, and surrounded by cafes, shops, and historical landmarks. Whether you want to experience local culture, enjoy an evening stroll, or take memorable photos, this square is a must-visit in Malang.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5UmFWRTVNVU5YVEhCRFExZHdWMUZVUWtZMVdHYxAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOk9RaVE5MUNXTHBDQ1dwV1FUQkY1WGc%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvgN9-B8OSLbBqC3Ydjjlnc_tZ6zOSCs_fA0trqe31KoWPUJf5lqyljjb_v2cy8ieBSrBbMs8SUs93tNNBfa-k39Q4aTvnXdBov3tQNOpjt64Dr1B2rzGVQE2mu6gpfNTSO88IIzLWSJNV2"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt5OD4VFOyEjmfYO0uZZgRJ65klABcoWyqWCDcaT-_7zz0D3kLvQlM-6UsAex8KO-sUHdigiv8MPSTnHQ330eqUOFV72YZQAf4paZnRyqwOeyXzvU8M8cG4XpLh6jLylIt9YK6hWEV-8tj5"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptWGejEhXNw-jbYB3KVw-xvAHRWbBTgoqLHTd2vk38wb6K_6ImrR6ZKShSpaRrU1fWxCObvnWI7_ngH_-oW25_MJB8OjiFLlEp8uqafHIbdLpm7X4KXEzO05WmM3hR2WomfEeQRQMjb9Gb8"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pshjpzbGUHw-p3fBOqm-6A9LDgcR31LA39_qBAKPAUDWkK5akfbs1Z8kppv2GqRz3WeLbLgEaijg_K4jEzc4YBX4nmS5rCmFLnhBb-Ns9xQymMzunt671r0pYu8C0lOhmeUs0790q7l_7dt"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puJ3Td4aU8ujI-3pNEQHE_bIRsJHVayunHrN26t5MJfsR88Rqi4TB9ziN_HP2xZhgHEuC6XneSP9XukirqvORZXXiV93GEuJWcWJ89ChEZZN1LT218-dewBlxYfhAChRjmGH3sqkOlozEM"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psctgkYfRl6Tr9Nz1saiKN_XfpIfeGPEO2jJIE6MOPUwwRH_dFxwPwuRqrXn_7bdMQJ3_h_Mgyn1WD6vKuOYTKRUG82siW6KV_ZjUMnrhABlQJRGrIiUBQsnEVxZ0tHgOYmP7L0Pae61Sog"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptY-sG8-e106Loe-qRmHATwOhRuXzsgvd7MSULf5_b9rOSn6tE76veQyn22cqLWJtH-4ZkTZwq47GnTCmqHnTtg8v6rNxWS6qPiqWnYyJOOpBj-v1GA_qJiEnu-nhMOrTtOiQ9cQnK4AWRf"
+                        }
+                    ],
+                    "date": "8 months ago",
+                    "date_iso8601": "2025-07-03T08:45:54+00:00"
+                },
+                {
+                    "username": "Reynold Briando Turangan",
+                    "rating": 5,
+                    "contributor_id": "101437895351648901564",
+                    "user_review_count": 72,
+                    "user_photo_count": 132,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWfCpY1SvO886_ofKT9dGv9K-pp_kJr3_Q4V0taxvSBA7flV2hg=s120-c-rp-mo-ba4-br100",
+                    "description": "Clean park, the tap water here was ready to drink. Have many bench to sit around.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkVFMwTnBMWGQ0VVZJMk5rTXlRVFJXWVZWVFYxRRAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOldTS0NpLXd4UVI2NkMyQTRWYVVTV1E%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt_ya5bWVwzha3QHgj7We495u7ETriJof-cowKm4he0nj0XhOlzG0VDI6zXZkuIznvjzktaKXPDABpYUNzD_nW461fVeOf4qFcFLoClMT53KCXbBWNdfYCR5x39bVw67CGYDgK1LZ6g1Xki"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt-ukXd6GKNzGuYfNS4fRrA1MZ3f1ZCEARulYAVy42pS1ZhgApVrwwhZGWtRWE9xIrMiCkf0CFAQKZdNU_GB-8Yyph4vnN2Pbr9QrlSYoQC857Hv9iZf6YMdJPtA5TsvfPqnXh_SvGMArk"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pszI7U22okfZkpyeguqakw8ff9Oz7SVabJPJg0L1onLBS6wNtLkJAASrXTlngwMMcF2Hht5gEGA9bsE3d4_F_MlycKd28QdmT1Hb92XUepS0KpiT28AdzyxJVB7qLYzN6IeoDWV4HJIo98"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptb6j-YHcecd24QIEtI9pv7l-Jmpx29JD07kpKm7qf-ljmgfGXflfiR7-Nb7pzifrXJKbeqQ_SPiQbVs769RqXgGp8-Rn-EvXxVEaKUroy3RWXlVzN40o6di1XeKF6ZmsedwMhhTTuqTz5J"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puPrOZnCMqdzmx1wPTqdNfY_1vFtEQKnj8ZCkCTOsBbQP0ItQ-xyGvMxAl8M-9ZypumPAAd8eohaJghmDXx4fGP1r8zPRrgJNvMYltwyZINr5Wz83CYV3D5YANkdV_AGGqZ8kekYBuT3l8"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvYRuKf6gpL0zXnirFvObIvP1m7ljWqqxNHz9JHQFE2ZVqYjVBD_5kS3Vehv88O9SLU_t1aEAS3Iuwj3teMlGk0ieHF4ao8QlzOk6r03qwSum1ZK7F31rZaEqfZzXc7A8KdRwEvKzs3qUg"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptKkvetji406i7vBlhvoHHJOYlwajaGqcJYw32gjf5dTR9VFPzgkjbBNKCch_Wi71X-J2xQ07MsZcGLPlWqC2Zowce2E-OVedjSv6hIjv2gmS4a3uU0PU5TtINYUEW11P0FLwVJ53Ud9O8"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps82MJzEwZdKq3akIZ3GCVxjTntlerxcOocik5FlV7vYnF_ry_xrIcBl83lyCDMbJgOnfg5y5T1z9z8rcaXeOTY5w4JcAoaQUtTjjueLq_tBcvKQBRUB4j_qR7sWgx3qtgvIXRYaWBLkFWN"
+                        }
+                    ],
+                    "date": "5 months ago",
+                    "date_iso8601": "2025-09-30T05:35:19+00:00"
+                },
+                {
+                    "username": "Edwin Petrus",
+                    "rating": 5,
+                    "contributor_id": "114785935323023325370",
+                    "user_review_count": 2065,
+                    "user_photo_count": 23181,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjViVW8tEXRYc3BatiNcUhGofE27kumEgAfonPrCpL4BlwYPaqBsCw=s120-c-rp-mo-ba8-br100",
+                    "description": "Alun Alun Malang is the park at the heart of Malang city. It is an open air park, surrounded by greeneries. There are seats where visitors may enjoy the park. There are also pigeons which visitors may feed. Kids playground is also available here. There is no entrance fee to enjoy the park.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SSmVHdDZOVk50ZUY5WWVGZDRaVFphZGtWUmMwRRAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOmRJeGt6NVNteF9YeFd4ZTZadkVRc0E%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvviK6HE7tTv5WPKHLnKFyF4gSUNiH2xq6OsA4TN3xZ2LqYhM0wb4a6SSjlIcTyq2PNg-pvTV8DYkpFnI6zsTobtRJNiuL-o7DO5VrolAxoIPq98P-nmhPwU_Hy0JzlaDZ42Lye3UeIqvh8"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptJs7oRv7Ew-OTHfd87MHu_HMVlRxJULPodY38kzCp1zsguh7swMGEvd3EA0NMy9U81kKUnsQhuIehO7C8640mSrgdbvvULRhtiRMs1t0tkV5ZIJRY4vZhv7rDPC27nzOy50OVvGFA9muE"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps3pTg6Wy8AxR2dApm9_6xE8f0O50it5zihV1VakvQYYCqg0tG45SGXaMkWeRrnT_tuYpDEwQRdUYZXJOr6aA2XhLSr0nmRhE4hVW-0GiFlDLrs6BfhcvuBEsEj3jvp0tJ0anvitIEftOof"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puMHkngeqSsJYrGLq8KuDXE9hK0nPqC5gh7hlLepM8x0Sou2ioQ0mXHkX_01FMX_HOiqPtRp-_h0KsxwiDONR21OHtiQEIijjhMnFcQTdVvDZYkQlm7yMCzfz8ohkB18R1kmLJTNIpWz4-A"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvgal-fYlhV2ltQY7_-r37U6zSuSdZD5yzb-ltKGVjdPJS75WE2AjM9w_egqWeQHXV7g1vctfTOm887Mcwe2ubQX5btkKGbvT75UsAPFd2zjr13Udo_yh2xWvSj8kh8lmcmAUUwOGs6QYI"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psda2_1QWuIN3b7NkVEvQfIS1c4ee0ufCpJpYAz5M7DFO8BPVj9LC4JebLoOUgZ4V5wl8LlnW-mHVPr-4xUYkxmvBROap-yjPxKUGBcY2sHd7MQMQAIyZl5iUBV-DsyZX-Mmy9tSGBCormZ"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt5M90utmet61uYasO0D3-j6pYxzDzBeLEXmpdD3co8DqwkZF5iRv_CbyhKyNF_7HN3QdIDEF1YnBmDDwletwrolbcJ2VkWMyNRPpxjBzfeZTzAX5-tcrXpO6NHKRUM-2q4OMwdWwa9qOpb"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pudUZsig21TmKPudv9cE-xFqrVzWT_ypjBuI0Sz6Iu-EZRy36fjoaBDDFrzMcBWpTSAjRzkAvDxMKKXDk_be9icjBULMCGpdFTOfloqnSaug2Wo-lS3_Qn5lpSyU37xc3nblrFVO3oGuDps"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptl55J6d_ozjpGEufdU3iYo154zq8CSuzH4-t8M53qpjbFv0K1XUpk37xJGh4lzrs48X6vY0J-GCWOB5cCoRGZDwuIaoZfRZQVYmLn3HsBOyeXfeNVt3AiMAxkdBU_tA3h67y_P0KehGBA"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvuYLafeZFXGy07ZRj4_Ks1KiCVd9NIxO7aQL5qQH71fXASxlO0x43-M8mZPw2TKJfueww812HLGwrM5nY9gV08_zuGoTFh-XA_L6qIt154ZLlrFYLl333xNlpFDmY_rqbzVjjoZUnkEy5_"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psQnj-D80gnkDCCneh3IwzOLwSqGj8-fY1xJ4aU2u82gKZyGDRbrxe4gIvljwQgjxR4mN_QKAW8tnCIknqdts6DmqBNrnNew-hoWGQtJWi6w4KZr6ATowCKtp3X9PC14Uh8k_a3n0C67tyd"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvRDNrA6J-FTZVC3-WnwigBgr2V2FMRvPQIKkii56FP8ULjIj-6Hm25yJE1lUvaIAfe4kirFEvDUQXs2qNlOkMThKpmBL055CQaKjGL7eCcoEZ3prokGGNXKKuUAQ4HIZ2ojaIQPDmQTQ0"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psnkPh9Joh6x4BjFCdBmgTBp1DbN9ybj3nzK09FGnrCsj3i0aiWCiSkmUelUDlnm0aYuZ-97I0zCHsHe6jNjc1OF6169bh01idUOsTEiLdEOjccT75XBzVSvkH2TEUnYTY0w5WmttOHL0iV"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psXYPh1PnWkEjW0PWvEoBSdhhSDvq4PZ5wO4q55AHobyacg2xml8cT7iif7AY8ClGwd9lZZPt7Y45HLy5oqt-b22O4vhBp5QC--liuIrWJHnqootHRV9t5cLF1fmSxF-KC5Nfdz7PDqGP91"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptQSsARXZQ0p1nJpz9WQQVjnYS0SLJN9xI5--dEZgq6Fv1hWKCK5EsR8gk8QvTUkQ51CzvAXBOcLj-A4T5cA1HzuUOKFQYX6hEvDJo3u4yT6Mpl79LbFoFtO-ptLAf__3FeEDXOiSfo4Z0"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvyrD0HN6cTD-X1w29KrMiedTav6ayRDZFX1PhqWLHAtVM1GdyuiM3msRPHTlBLl1IAxfCsPoXlg35_DUi2ReCiJby1IfrIDHLQwJIlkIj-GcCBjS44KaSxUoRHnxHvJe51a_9HMwiP0b7R"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pu9VSvkcCJDsyyeT4thn1AcjeZnuaHK3ro_Ne638qQdJn6qLQhGJS9ek5JoaOtz0-vHVjT4b_3_EbFdjp4LBEmI6qgGkPgQaWSqLJZvaRf3aIbNeM5Z_OMfLhcIT7T5xz4VpMIzdJGMn_nK"
+                        }
+                    ],
+                    "date": "7 months ago",
+                    "date_iso8601": "2025-07-23T12:55:08+00:00"
+                },
+                {
+                    "username": "Milla Alcaff",
+                    "rating": 5,
+                    "contributor_id": "114031575961187144486",
+                    "user_review_count": 125,
+                    "user_photo_count": 393,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVhTMbfLdXVKtXBgnAeOi68ldsTubO4qENJT1CyW_yslwONdjzW=s120-c-rp-mo-ba5-br100",
+                    "description": "Alun-Alun Malang is a lovely, refreshing place to visit. The greenery and open spaces make it perfect for a relaxing stroll or a morning jog. You can enjoy the local ambiance, watch families and friends spending time together, and listen to the cheerful sounds of birds throughout the park. It\u2019s a peaceful escape right in the heart of the city, and it\u2019s well-maintained, making it easy to enjoy nature without leaving Malang. Whether you\u2019re looking to unwind, take photos, or simply enjoy a calm environment, Alun-Alun Malang is definitely worth a visit.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aS2FVTlhabVJqVlRWa1ZtOUxZbloxTVVoMlkwRRAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOmZKaUNXZmRjVTVkVm9LYnZ1MUh2Y0E%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puu8zi1I7meMXn6G3jl_rlTDczNK-tFBcp9-20KXp-vRYxAFSGXhdDBcdFVXAJSVB9qXITsI9mYmsorhQJWLj1h7m8i0UcEHGG33W4jAix3q-cj_r9CeSUxTiypssPMtF_83yeooxC3W1ck"
+                        }
+                    ],
+                    "date": "6 months ago",
+                    "date_iso8601": "2025-08-30T09:24:42+00:00"
+                },
+                {
+                    "username": "Adedoyin Yusuff",
+                    "rating": 5,
+                    "contributor_id": "116101346146153102331",
+                    "user_review_count": 35,
+                    "user_photo_count": 24,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU4WMKMbV4EB63OKWK0fM87pBcaxO3yyHnl-Y-Lly9uNhIIYx8t=s120-c-rp-mo-ba3-br100",
+                    "description": "I did not have the opportunity to spend much time here, as I only passed by on my way to a nearby mosque. However, the area looked lively, clean, and well organized. The green open space and central location make it seem like a great place to relax or gather with friends and family.\nIf you are visiting Malang, Alun-Alun Kota Malang appears to be a place worth stopping by.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5cGNUaHlVemxQVUc1VExXVk5OMmsxYTFZd2VGRRAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOl9pcThyUzlPUG5TLWVNN2k1a1YweFE%7C%7C?hl=en-US",
+                    "date": "3 weeks ago",
+                    "date_iso8601": "2026-02-21T16:56:45+00:00"
+                },
+                {
+                    "username": "Farzana Annisa",
+                    "rating": 5,
+                    "contributor_id": "108264611271729120777",
+                    "user_review_count": 6,
+                    "user_photo_count": 15,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLBKwUrvVdFvjykB_8i4HYxEUNoKGt-cniIg0sA-eJyx0HM=s120-c-rp-mo-br100",
+                    "description": "A simple city park which has it all, small playground, big trees, picnic are...kids can run around, feeding pigeons and play old styles toys",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tObFpqQjJjbVJHYkhOcVlXTkJiSEpvTTFkdFJHYxAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CAIQACodChtycF9oOkNlZjB2cmRGbHNqYWNBbHJoM1dtRGc%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvPk3V-wppNCTb8DSe_Q0FEo4cFvuUeAgeAv3tftjKV3Af07tipkr0HDr7TQCgryOI28BXrCA0Z4YB3-Emv8IfGDzylUYF8jKWcEgQ4GotG-tyL2QOj09tVSr0k8S6f0fR1kdoFd8lItJg"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psNLQISxNn32Hz63BC87YfW1eeG4DlLipFZAT63Mmjm4Xulxt2lMosIxPDBs6J9OOz5wtujWqHD29Xkk_9qgx864iuhcw2-fCNNOslqeqpzrkWsrYjKRVwuxZMpxAAE5U4OGF74Z3kaYlHV"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pu1l51u30xTg0gA5r_28P1DMiS9EN2Eu8xJLuYOJe7qdONCIBcprPEA_SdkzThwNhAMoQtHRzkViNFfoLl0YcXoed23ErNWDpUFa8-Uu20cJshc6iUHl_c6i4iI9FvU7KfJJx3dfvtPUcs"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptQ4rTUBV7ofsfwHz6FgXD6f8qvL4W7UixNovS3fPWAelTQNZ7Uwy6-wYmdQ3a3g0w3WKQeyHBUQxqLm-LarzA8dIa3dSnu-qi8GXIPzr-dMPO8l2XmASOSNFtJsGohVndk8ZK2CJkRYKJq"
+                        }
+                    ],
+                    "date": "7 months ago",
+                    "date_iso8601": "2025-08-09T00:24:00+00:00"
+                },
+                {
+                    "username": "Mikail Almu'allim",
+                    "rating": 4,
+                    "contributor_id": "115877267290639743288",
+                    "user_review_count": 83,
+                    "user_photo_count": 161,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWN-B3SUSMe6HGnpxB5l_xEYB5hgKpd77MUkHwt6N3R1Mr1ReJmrQ=s120-c-rp-mo-ba4-br100",
+                    "description": "Alun-Alun Malang is a nice park to have in the middle of a city.\n\nIt has some playground for kids and space for other types of events as well. Lots of pigeons, really fun.\n\nCleanliness and tidiness? Not quite there, needed more of signs and trash bins for people to not litter.\n\nThe stores can be more managed so they don\u2019t obstruct the view and litter much.\n\nOverall, OK, hope it will get fixed",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYME5ET3RRRRAB!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CIHM0ogKEICAgIDX0NDOtQE%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puanByGFuf663CWP5Nmksq5e_oolpXY8T2fhJhhd_eDXibsRcmnzgPpbjvGtyDNSI0hTQ77c-ScrnMRrw0pVDXVpTmLwnWTmIgDrabcAxTkQMvjsUr3CJZ8EBfB0ca83J0dbQU"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvVqp2xghK8EAfo44_Gekg2LERh4qn3OdyPUTmewp5E1suPai1gV9DZGUcKOHAL1j_1JI79bQ530vyPQwaYjxZRUKi2esM7Vloyna-rB4Za4WJjRBXvdEf6hawmO2cTsMltuJAvTQ"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9psuX3MNpjCE67MRTMs0cpfxQQHpp_VCVul-6ikuWMe_9VNpTTvIh2TUxmU99ZhufIjVQHOFTDyJSazkg9uwKLKlczYycNxW2UeQEzov97X67jykA1zOjfH5sgLXILC8CfTImMNO"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptuROV2Yzaj-nLA6qNbJmVcV9Is-0uvDT2J3PU6gVNilyEGbcWR8Ut1XY5Aw68y-qoRo7IPdfZ20P-rx8OU2DslSp2XjZydRLKZYulMf_FAAyRpcnIpIPCTGtkGqRuSqLUcKT_2VA"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pujbnKXtYZ5yGiiQfXiwQHySr2Sljo7JOirlcDGoGXZtwV7UAnmkQu1e3ZhNsQDK8_fuSaBNvsXkKmcQJxWIQyL-SNtjWOXaQX9AcPnpN6YUjYugwD2HdgmjN0DC6ite_gIVyFk"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvzjZpfwhBlDdGQisfrgVseZGmo8Iq8kn-kCLJycf-Xzg6PY4XY9ala_eoJTFqJc-nXTqr8mEjbIIsxs7eL4yIA6fNiTL251yBKbYct1DLh7VPfoOxSXA0eqg3lt0vtL1fL65I-mQ"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9puxD7Upmt5gFuaGUVg71hRH9Jo0OYEsvyjqnOGBdY79ghhxo5JsAKVkbEn-qS13fhKCnAjnSkPR_QWG98hpYbax1fsUrR7e2bJULJghjjQD3stn3EOdvalmJLmDndInDMZWQ8NX"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvViEg6pVQaZBiqFkWs5P4xcpnCU22LLX7hSGm20MSccBVFYgqtixXE87EWuRAEyla13YwQN0ff2nPCFmwDC8SsoA74ZOzUP0K2Ce5Etk2YYBkOg2NCAxTYfkrVsND03pUlozO8hw"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptn5-FHfpbZEQC0W2kw1o1krtKvQyrY0Cws9y-x1O9_J3unnV3RHZvZ-1KyExyaG_wtGnZpstzyBKcr80Y_TGtIkyZGJGvRzTxUMdrnem9015W2afVJTRoNu8n3tNorl7284Dl-"
+                        }
+                    ],
+                    "date": "a year ago",
+                    "date_iso8601": "2024-10-23T01:50:43+00:00"
+                },
+                {
+                    "username": "Joanna N",
+                    "rating": 4,
+                    "contributor_id": "111840260199785707898",
+                    "user_review_count": 22,
+                    "user_photo_count": 44,
+                    "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWsb5i2e0uT4xhiuqHkd_rrc_xK96mGoOWfsIh8yFFvhLbWgC8T=s120-c-rp-mo-ba3-br100",
+                    "description": "Nice, clean park with lots of pigeons, benches and grass areas. Great views of the mosque next to it and a lot of street vendors surrounding the park. Nice play area for kids.\n\nOnly minus is that there\u2019s not really many things to do: the park is basically just for picnics and sitting down with friends.",
+                    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuMDZ5aExREAE!2m1!1s0x0:0xe71f0ef69b3810b4!3m1!1s2@1:CIHM0ogKEICAgIDn06yhLQ%7C%7C?hl=en-US",
+                    "images": [
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps1cIiXgfyt4WK46l-3TxAgV5Em_Oax9dEUKL8SRqsMAb6nmzCRdyqmoxLnqmHUOfKXNnahz-D5X5YlxwPGbaqMeVZGbxjv3OwQpYyXLpdqxiaU3RUvjm5oSZF4fEBEILKfNffKVg"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvJdMKwPPw6QbauIqbfvoD8tvgxvvcaozVdvLMVYQhXSmd_KU41oCem05FWd0tJuLjYuBKoimLnmjUFZ4CNSYlEoZ7WDlGm2Rx9BiBOjk4S7RIC-s6t13zoe7w1VkSNbL4LEvw"
+                        },
+                        {
+                            "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptJtvIcUxuHSrswjbwoipA0IqlpL509XfGKlNHdKMjj784scUsqS32nGrLze6TiJQCcimeZit1r9JTN8B0wwpzLMGrqblk7qVNOINFU_jDClfTHwnCIzlbyoL7EpH5zKi4FpdlM"
+                        }
+                    ],
+                    "date": "a year ago",
+                    "date_iso8601": "2024-10-09T17:00:11+00:00"
+                }
+            ]
+        },
+        "people_also_search_for": [
+            {
+                "search_term": "People also search for",
+                "local_results": [
+                    {
+                        "position": 1,
+                        "title": "Alun Alun Tugu Malang",
+                        "data_id": "0x0:0xe288628857685d91",
+                        "data_cid": "16323405187125894545",
+                        "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe288628857685d91&engine=google_maps_reviews&hl=en",
+                        "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe288628857685d91&engine=google_maps_photos&hl=en",
+                        "gps_coordinates": {
+                            "latitude": -7.977143000000001,
+                            "longitude": 112.63404779999999
+                        },
+                        "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xe288628857685d91%218m2%213d-7.977143000000001%214d112.63404779999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                        "rating": 4.6,
+                        "reviews": 14029,
+                        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerupPmjeCnOM-l3m_IQo4B9aP_DkzY_vuDvFuS6PglpZAtNHDcjV9MwOMDXZnWjWnG18NbXL_qZn9SjysxuRyY0NHpH2QRLIOLXV0bK5BYCchNrV0kZKTFaHNSEoHdMsm6ekLSnoN1lOB-I=w156-h156-n-k-no",
+                        "type": [
+                            "City park",
+                            "Park",
+                            "Tourist attraction"
+                        ]
+                    },
+                    {
+                        "position": 2,
+                        "title": "Alun-Alun Kota Wisata Batu",
+                        "data_id": "0x0:0xea1a51125dafb9b8",
+                        "data_cid": "16868884493592672696",
+                        "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xea1a51125dafb9b8&engine=google_maps_reviews&hl=en",
+                        "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xea1a51125dafb9b8&engine=google_maps_photos&hl=en",
+                        "gps_coordinates": {
+                            "latitude": -7.871171400000001,
+                            "longitude": 112.52692429999999
+                        },
+                        "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xea1a51125dafb9b8%218m2%213d-7.871171400000001%214d112.52692429999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                        "rating": 4.7,
+                        "reviews": 33300,
+                        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepCuMIw2SSm4k4PBuK-meleUpfzeKCIwR1WD_ysEKfRvVBX6ZcTDdmMRA5uqFUGBgxvIQCasXxWgtW9MAmzInPxM-iiHahpCEmdQo5DLknYe_eIszd-f5rhU0XHL0cMawHPQ1ah=w156-h156-n-k-no",
+                        "type": [
+                            "City park"
+                        ]
+                    },
+                    {
+                        "position": 3,
+                        "title": "Alun alun",
+                        "data_id": "0x0:0xb8beb87c6229fd63",
+                        "data_cid": "13312280392916139363",
+                        "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb8beb87c6229fd63&engine=google_maps_reviews&hl=en",
+                        "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb8beb87c6229fd63&engine=google_maps_photos&hl=en",
+                        "gps_coordinates": {
+                            "latitude": -7.966623899999999,
+                            "longitude": 112.6326467
+                        },
+                        "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xb8beb87c6229fd63%218m2%213d-7.966623899999999%214d112.6326467&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                        "rating": 0,
+                        "reviews": 0,
+                        "thumbnail": "https://www.google.com/maps/vt/data=mJjAepH2xauWR-Ps_Xr15e6-wi7phl846ULZfRptcc8ecXQLm8shjn4TcGykJp0DpVHbARIy90HtvTAXFUX-cmtERVpQFwoE8lHj1MylfqrebvM8O9Ub6Lmoxx6hv3q-dedqVhXa5UtsLuT_XoJphRmjgL9PxHt5",
+                        "type": [
+                            "Apartment complex"
+                        ]
+                    },
+                    {
+                        "position": 4,
+                        "title": "Alun Alun Kedungkandang",
+                        "data_id": "0x0:0xc019ab69998d15bc",
+                        "data_cid": "13842283399736006076",
+                        "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc019ab69998d15bc&engine=google_maps_reviews&hl=en",
+                        "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc019ab69998d15bc&engine=google_maps_photos&hl=en",
+                        "gps_coordinates": {
+                            "latitude": -8.016098399999999,
+                            "longitude": 112.6442081
+                        },
+                        "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xc019ab69998d15bc%218m2%213d-8.016098399999999%214d112.6442081&engine=google_maps&google_domain=google.com&hl=en&type=place",
+                        "rating": 4.2,
+                        "reviews": 5,
+                        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqhZc0LXBRGvw5RpJBKneGD2mTcAX2quYJWYI-0ViKOOOojMs6GimSXdxHDD_1YiVGt4YLQ6tKWYjtDbtQEFUIesew34qylRyNryRnFCEdJ1Fu6peE52d15h746ocQYGswa0o8=w156-h156-n-k-no",
+                        "type": [
+                            "Garden"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "popular_times": {
+            "current_day": "friday",
+            "live_hash": {
+                "info": "A little busy",
+                "time_spent": "People typically spend 20 min to 1.5 hr here"
+            },
+            "graph_results": {
+                "sunday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 14
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 24
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 39
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 59
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 79
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 93
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 97
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 94
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 84
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 74
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 66
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 60
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 60
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 63
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 67
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 67
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 60
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 49
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 36
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 25
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 13
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 5
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    }
+                ],
+                "monday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 8
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 15
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 24
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 33
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 41
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 49
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 48
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 45
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 45
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 38
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 31
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 22
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 12
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 3
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 8
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 14
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 23
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 33
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 41
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 43
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 53
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 54
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 52
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 33
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 22
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 12
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 6
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 3
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 3
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 14
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 23
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 32
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 40
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 48
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 45
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 43
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 43
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 52
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 57
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 62
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 61
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 55
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 31
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 17
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 9
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 3
+                    }
+                ],
+                "thursday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 8
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 14
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 22
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 31
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 38
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 43
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 42
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 39
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 39
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 41
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 38
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 30
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 22
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 12
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 3
+                    }
+                ],
+                "friday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 5
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 8
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 14
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 23
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 31
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 42
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 55
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 68
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 68
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 55,
+                        "live_busyness_score": 74,
+                        "current": true
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 44
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 47
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 52
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 53
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 51
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 45
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 36
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 27
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 15
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 9
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 5
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 4
+                    }
+                ],
+                "saturday": [
+                    {
+                        "time": "4 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 7
+                    },
+                    {
+                        "time": "5 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 10
+                    },
+                    {
+                        "time": "6 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 16
+                    },
+                    {
+                        "time": "7 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 25
+                    },
+                    {
+                        "time": "8 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 34
+                    },
+                    {
+                        "time": "9 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 41
+                    },
+                    {
+                        "time": "10 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 46
+                    },
+                    {
+                        "time": "11 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 49
+                    },
+                    {
+                        "time": "12 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 50
+                    },
+                    {
+                        "time": "1 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 49
+                    },
+                    {
+                        "time": "2 PM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 49
+                    },
+                    {
+                        "time": "3 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 52
+                    },
+                    {
+                        "time": "4 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 59
+                    },
+                    {
+                        "time": "5 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 70
+                    },
+                    {
+                        "time": "6 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 83
+                    },
+                    {
+                        "time": "7 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 93
+                    },
+                    {
+                        "time": "8 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 100
+                    },
+                    {
+                        "time": "9 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 94
+                    },
+                    {
+                        "time": "10 PM",
+                        "info": "Usually as busy as it gets",
+                        "busyness_score": 81
+                    },
+                    {
+                        "time": "11 PM",
+                        "info": "Usually a little busy",
+                        "busyness_score": 63
+                    },
+                    {
+                        "time": "12 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 37
+                    },
+                    {
+                        "time": "1 AM",
+                        "info": "Usually not too busy",
+                        "busyness_score": 21
+                    },
+                    {
+                        "time": "2 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 11
+                    },
+                    {
+                        "time": "3 AM",
+                        "info": "Usually not busy",
+                        "busyness_score": 8
+                    }
+                ]
+            }
+        },
+        "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OjgKNiIyQWx1biBBbHVuIE1hbGFuZyBNYWxhbmcgQ2l0eSwgRWFzdCBKYXZhLCBJbmRvbmVzaWEoAg&pcl=lp",
+        "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjgKNiIyQWx1biBBbHVuIE1hbGFuZyBNYWxhbmcgQ2l0eSwgRWFzdCBKYXZhLCBJbmRvbmVzaWEoAg&q=local+guide+program"
+    }
+}

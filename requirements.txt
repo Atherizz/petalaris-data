@@ -12,3 +12,5 @@ pyogrio
 folium
 mapclassify
 requests
+serpapi
+folium
