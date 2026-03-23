@@ -1,4 +1,4 @@
-venue_name,lat,lon,zone,day_name,day_hours,hour,busyness_score
+venue_name,lat,lon,zone,day_name,day_int,hour,busyness_score
 Alun-alun Kota Malang,-7.9826144999999995,112.63081129999999,public_area,sunday,6,4,13
 Alun-alun Kota Malang,-7.9826144999999995,112.63081129999999,public_area,sunday,6,5,22
 Alun-alun Kota Malang,-7.9826144999999995,112.63081129999999,public_area,sunday,6,6,37
