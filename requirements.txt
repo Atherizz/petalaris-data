@@ -8,9 +8,9 @@ ipykernel
 geopandas
 shapely
 pyproj
-pyogrio
 folium
 mapclassify
 requests
 serpapi
-folium
+h3
+python-dotenv
